@@ -14,7 +14,7 @@ export default function RootLayout({
 }) {
   return (
     <html>
-      <body className="border border-red-500 max-w-[80vw] m-auto">
+      <body className="w-[70vw] m-auto">
         <Navbar />
         <div>{children}</div>
       </body>
