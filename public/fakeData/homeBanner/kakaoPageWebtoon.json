@@ -1,0 +1,106 @@
+{
+  "lastUpdate": null,
+  "totalWebtoonCount": 6615,
+  "naverWebtoonCount": 2196,
+  "kakaoWebtoonCount": 1910,
+  "kakaoPageWebtoonCount": 2509,
+  "updatedWebtoonCount": 0,
+  "createdWebtoonCount": 0,
+  "webtoons": [
+    {
+      "_id": "638250f00d980db259c7364b",
+      "webtoonId": 3000047347970,
+      "title": "달빛조각사 데포르메",
+      "author": "이도경,가령,육공",
+      "url": "https://page.kakao.com/content/47347970",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=n1FsN/hzCtdN2lSD/7x8Jw62Dgmhdk7xIRArAPK&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["mon", "wed", "fri"],
+      "fanCount": 5942,
+      "searchKeyword": "달빛조각사데포르메이도경가령육공",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250f00d980db259c7368d",
+      "webtoonId": 3000054407499,
+      "title": "프로야구생존기",
+      "author": "최훈",
+      "url": "https://page.kakao.com/content/54407499",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bNJtoD/hzCs62tB4m/LLwQHYhtoLTzG9VVAIgxcK&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["tue", "fri"],
+      "fanCount": 5591,
+      "searchKeyword": "프로야구생존기최훈",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["free"]
+      }
+    },
+    {
+      "_id": "638250f00d980db259c7363d",
+      "webtoonId": 3000053764524,
+      "title": "웽툰",
+      "author": "춘섬이",
+      "url": "https://page.kakao.com/content/53764524",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=cP0f5b/hzHNyeMuv2/9Pkwsz4wM9O2aILaOWpIA1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["mon", "tue", "wed", "thu", "fri"],
+      "fanCount": 927,
+      "searchKeyword": "웽툰춘섬이",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["free"]
+      }
+    },
+    {
+      "_id": "638250ef0d980db259c73623",
+      "webtoonId": 3000056608347,
+      "title": "슈퍼 큐브: 최강 고딩이 되는 법",
+      "author": "SLSS",
+      "url": "https://page.kakao.com/content/56608347",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=cLVDcG/hzHNBIRWCM/vhxpoe5TZhboBPbkn6WsS1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["fri"],
+      "fanCount": 116,
+      "searchKeyword": "슈퍼큐브최강고딩이되는법slss",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree", "over15"]
+      }
+    },
+    {
+      "_id": "638250f00d980db259c73695",
+      "webtoonId": 3000060646409,
+      "title": "다빈치치 풋볼",
+      "author": "다빈치치",
+      "url": "https://page.kakao.com/content/60646409",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=SemGB/hzMT1vSNK6/MIKstGRp8Zo93AVKSJqcZ0&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["fri"],
+      "fanCount": 17,
+      "searchKeyword": "다빈치치풋볼다빈치치",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["free"]
+      }
+    }
+  ]
+}

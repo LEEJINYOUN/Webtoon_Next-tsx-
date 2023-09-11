@@ -1,0 +1,106 @@
+{
+  "lastUpdate": null,
+  "totalWebtoonCount": 6615,
+  "naverWebtoonCount": 2196,
+  "kakaoWebtoonCount": 1910,
+  "kakaoPageWebtoonCount": 2509,
+  "updatedWebtoonCount": 0,
+  "createdWebtoonCount": 0,
+  "webtoons": [
+    {
+      "_id": "63824f5499624044b9325ee4",
+      "webtoonId": 1000000790245,
+      "title": "어쩌다보니 천생연분",
+      "author": "꿀타래,담초",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=790245&week=fri",
+      "img": "https://image-comic.pstatic.net/webtoon/790245/thumbnail/thumbnail_IMAG21_3545003845982959922.jpg",
+      "service": "naver",
+      "updateDays": ["fri"],
+      "fanCount": 50,
+      "searchKeyword": "어쩌다보니천생연분꿀타래담초",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5499624044b9325ee8",
+      "webtoonId": 1000000712362,
+      "title": "개를 낳았다",
+      "author": "이선",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=712362&week=fri",
+      "img": "https://image-comic.pstatic.net/webtoon/712362/thumbnail/thumbnail_IMAG21_7220173143199539507.jpg",
+      "service": "naver",
+      "updateDays": ["fri"],
+      "fanCount": 50,
+      "searchKeyword": "개를낳았다이선",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5499624044b9325ee6",
+      "webtoonId": 1000000773797,
+      "title": "나 혼자 만렙 뉴비",
+      "author": "WAN.Z,스윙뱃,메슬로우",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=773797&week=fri",
+      "img": "https://image-comic.pstatic.net/webtoon/773797/thumbnail/thumbnail_IMAG21_74f87a34-cf6d-4838-8a80-768bdb2f78a9.jpg",
+      "service": "naver",
+      "updateDays": ["fri"],
+      "fanCount": 10,
+      "searchKeyword": "나혼자만렙뉴비wanz스윙뱃메슬로우",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5499624044b9325eea",
+      "webtoonId": 1000000798917,
+      "title": "언니, 이번 생엔 내가 왕비야",
+      "author": "Omin,테미스,레팔진프",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=798917&week=fri",
+      "img": "https://image-comic.pstatic.net/webtoon/798917/thumbnail/thumbnail_IMAG21_ca84bfa2-c1c8-4621-9b4b-26dc745606f5.jpg",
+      "service": "naver",
+      "updateDays": ["fri"],
+      "fanCount": 10,
+      "searchKeyword": "언니이번생엔내가왕비야omin테미스레팔진프",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5499624044b9325eec",
+      "webtoonId": 1000000776601,
+      "title": "광마회귀",
+      "author": "JP,이히,유진성",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=776601&week=fri",
+      "img": "https://image-comic.pstatic.net/webtoon/776601/thumbnail/thumbnail_IMAG21_7365135131254864183.jpg",
+      "service": "naver",
+      "updateDays": ["fri"],
+      "fanCount": 10,
+      "searchKeyword": "광마회귀jp이히유진성",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    }
+  ]
+}
