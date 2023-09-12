@@ -9,7 +9,7 @@ import FriData from "../../public/fakeData/naver/fri1.json";
 import SatData from "../../public/fakeData/naver/sat1.json";
 import SunData from "../../public/fakeData/naver/sun1.json";
 
-type getDataType = {
+type GetDataType = {
   author: string;
   title: string;
   url: string;
@@ -53,23 +53,23 @@ export default function NaverGetWebtoon() {
   const [todayDate, setTodayDate] = useState<string>(
     `${week[current.getDay()]}`
   );
-  const [naverGetdata, setNaverGetdata] = useState<getDataType[]>([]);
+  const [naverGetData, setNaverGetData] = useState<GetDataType[]>([]);
   const dateChange = (selected: string) => {
     setTodayDate(selected);
     if (selected === "mon") {
-      setNaverGetdata(MonData.webtoons);
+      setNaverGetData(MonData.webtoons);
     } else if (selected === "tue") {
-      setNaverGetdata(TueData.webtoons);
+      setNaverGetData(TueData.webtoons);
     } else if (selected === "wed") {
-      setNaverGetdata(WedData.webtoons);
+      setNaverGetData(WedData.webtoons);
     } else if (selected === "thu") {
-      setNaverGetdata(ThuData.webtoons);
+      setNaverGetData(ThuData.webtoons);
     } else if (selected === "fri") {
-      setNaverGetdata(FriData.webtoons);
+      setNaverGetData(FriData.webtoons);
     } else if (selected === "sat") {
-      setNaverGetdata(SatData.webtoons);
+      setNaverGetData(SatData.webtoons);
     } else if (selected === "sun") {
-      setNaverGetdata(SunData.webtoons);
+      setNaverGetData(SunData.webtoons);
     }
   };
 
@@ -85,23 +85,23 @@ export default function NaverGetWebtoon() {
 
   useEffect(() => {
     if (todayDate === "mon") {
-      setNaverGetdata(MonData.webtoons);
+      setNaverGetData(MonData.webtoons);
     } else if (todayDate === "tue") {
-      setNaverGetdata(TueData.webtoons);
+      setNaverGetData(TueData.webtoons);
     } else if (todayDate === "wed") {
-      setNaverGetdata(WedData.webtoons);
+      setNaverGetData(WedData.webtoons);
     } else if (todayDate === "thu") {
-      setNaverGetdata(ThuData.webtoons);
+      setNaverGetData(ThuData.webtoons);
     } else if (todayDate === "fri") {
-      setNaverGetdata(FriData.webtoons);
+      setNaverGetData(FriData.webtoons);
     } else if (todayDate === "sat") {
-      setNaverGetdata(SatData.webtoons);
+      setNaverGetData(SatData.webtoons);
     } else if (todayDate === "sun") {
-      setNaverGetdata(SunData.webtoons);
+      setNaverGetData(SunData.webtoons);
     }
   }, [todayDate]);
   return (
-    <div>
+    <>
       <div className="mb-3 border-b-2 border-gray-300/50">
         {DATE.map((item) => (
           <button
@@ -118,8 +118,11 @@ export default function NaverGetWebtoon() {
         ))}
       </div>
       <div className="grid 2xl:grid-cols-5 xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-5">
-        {naverGetdata.map((card, key) => (
-          <div className="shadow-lg rounded-lg" key={key}>
+        {naverGetData.map((card, key) => (
+          <div
+            className="shadow-lg rounded-lg h-[450px] lg:h-[350px]"
+            key={key}
+          >
             <div className="w-full h-[80%] md:h-[70%]">
               <img
                 className=" rounded-t-lg w-full h-full cursor-pointer"
@@ -141,6 +144,6 @@ export default function NaverGetWebtoon() {
           </div>
         ))}
       </div>
-    </div>
+    </>
   );
 }
