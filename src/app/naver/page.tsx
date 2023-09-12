@@ -1,5 +1,10 @@
 import React from "react";
+import NaverGetWebtoon from "@/components/NaverGetWebtoon";
 
 export default function Naver() {
-  return <div>네이버웹툰</div>;
+  return (
+    <>
+      <NaverGetWebtoon />
+    </>
+  );
 }

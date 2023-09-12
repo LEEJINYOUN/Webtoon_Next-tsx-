@@ -1,0 +1,391 @@
+{
+  "lastUpdate": null,
+  "totalWebtoonCount": 6615,
+  "naverWebtoonCount": 2196,
+  "kakaoWebtoonCount": 1910,
+  "kakaoPageWebtoonCount": 2509,
+  "updatedWebtoonCount": 0,
+  "createdWebtoonCount": 0,
+  "webtoons": [
+    {
+      "_id": "63824f5399624044b9325e64",
+      "webtoonId": 1000000570506,
+      "title": "최강전설 강해효",
+      "author": "최병열",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=570506&week=thu",
+      "img": "https://image-comic.pstatic.net/webtoon/570506/thumbnail/thumbnail_IMAG21_3630857206429464627.jpg",
+      "service": "naver",
+      "updateDays": ["thu"],
+      "fanCount": 50,
+      "searchKeyword": "최강전설강해효최병열",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5399624044b9325e5e",
+      "webtoonId": 1000000776542,
+      "title": "네가 죽기를 바랄 때가 있었다",
+      "author": "기매,아란,진서",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=776542&week=thu",
+      "img": "https://image-comic.pstatic.net/webtoon/776542/thumbnail/thumbnail_IMAG21_ca2e314b-448b-4383-980a-b6c50b1c6ca4.jpg",
+      "service": "naver",
+      "updateDays": ["thu"],
+      "fanCount": 10,
+      "searchKeyword": "네가죽기를바랄때가있었다기매아란진서",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5399624044b9325e62",
+      "webtoonId": 1000000798173,
+      "title": "이상한 변호사 우영우",
+      "author": "유일,화음조,이예지",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=798173&week=thu",
+      "img": "https://image-comic.pstatic.net/webtoon/798173/thumbnail/thumbnail_IMAG21_384e425c-307a-4754-b3f7-bb660117c0f3.jpg",
+      "service": "naver",
+      "updateDays": ["thu"],
+      "fanCount": 10,
+      "searchKeyword": "이상한변호사우영우유일화음조이예지",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5399624044b9325e66",
+      "webtoonId": 1000000780191,
+      "title": "선남친 후연애",
+      "author": "해부기,정미,왕기대",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=780191&week=thu",
+      "img": "https://image-comic.pstatic.net/webtoon/780191/thumbnail/thumbnail_IMAG21_8868da32-6304-45c5-8613-6c3954891a14.jpg",
+      "service": "naver",
+      "updateDays": ["thu"],
+      "fanCount": 10,
+      "searchKeyword": "선남친후연애해부기정미왕기대",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5399624044b9325e68",
+      "webtoonId": 1000000790239,
+      "title": "가족같은 XX",
+      "author": "서우현",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=790239&week=thu",
+      "img": "https://image-comic.pstatic.net/webtoon/790239/thumbnail/thumbnail_IMAG21_75cb9f71-9af3-48ca-a143-cd59540328b1.jpg",
+      "service": "naver",
+      "updateDays": ["thu"],
+      "fanCount": 10,
+      "searchKeyword": "가족같은xx서우현",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5399624044b9325e6c",
+      "webtoonId": 1000000758439,
+      "title": "던전 씹어먹는 아티팩트",
+      "author": "엄키,제로워터",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=758439&week=thu",
+      "img": "https://image-comic.pstatic.net/webtoon/758439/thumbnail/thumbnail_IMAG21_3834868071364834100.jpg",
+      "service": "naver",
+      "updateDays": ["thu"],
+      "fanCount": 10,
+      "searchKeyword": "던전씹어먹는아티팩트엄키제로워터",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5399624044b9325e70",
+      "webtoonId": 1000000741825,
+      "title": "꽃만 키우는데 너무강함",
+      "author": "주현후,쿰타타",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=741825&week=thu",
+      "img": "https://image-comic.pstatic.net/webtoon/741825/thumbnail/thumbnail_IMAG21_c830f1df-cd0e-4b7f-aa4e-84d59c88a892.jpg",
+      "service": "naver",
+      "updateDays": ["thu"],
+      "fanCount": 10,
+      "searchKeyword": "꽃만키우는데너무강함주현후쿰타타",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5399624044b9325e72",
+      "webtoonId": 1000000771912,
+      "title": "THE 런웨이",
+      "author": "도미,녹두,Hirachell",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=771912&week=thu",
+      "img": "https://image-comic.pstatic.net/webtoon/771912/thumbnail/thumbnail_IMAG21_f5c91d16-dbed-423a-be2a-ea025ef95ead.jpg",
+      "service": "naver",
+      "updateDays": ["thu"],
+      "fanCount": 10,
+      "searchKeyword": "the런웨이도미녹두hirachell",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5399624044b9325e74",
+      "webtoonId": 1000000796242,
+      "title": "위대한 겸상",
+      "author": "홍치",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=796242&week=thu",
+      "img": "https://image-comic.pstatic.net/webtoon/796242/thumbnail/thumbnail_IMAG21_3558519051501779250.jpg",
+      "service": "naver",
+      "updateDays": ["thu"],
+      "fanCount": 10,
+      "searchKeyword": "위대한겸상홍치",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5399624044b9325e78",
+      "webtoonId": 1000000783117,
+      "title": "만능잡캐",
+      "author": "키보드만세, 홍실,김대훈",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=783117&week=thu",
+      "img": "https://image-comic.pstatic.net/webtoon/783117/thumbnail/thumbnail_IMAG21_7364620379494637924.jpg",
+      "service": "naver",
+      "updateDays": ["thu"],
+      "fanCount": 10,
+      "searchKeyword": "만능잡캐키보드만세홍실김대훈",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5499624044b9325e88",
+      "webtoonId": 1000000131385,
+      "title": "쿠베라",
+      "author": "카레곰",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=131385&week=thu",
+      "img": "https://image-comic.pstatic.net/webtoon/131385/thumbnail/thumbnail_IMAG21_1d44dd99-4fef-48b5-81f0-083e83b6c048.jpg",
+      "service": "naver",
+      "updateDays": ["thu"],
+      "fanCount": 10,
+      "searchKeyword": "쿠베라카레곰",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5499624044b9325e8a",
+      "webtoonId": 1000000776668,
+      "title": "마왕까지 한 걸음",
+      "author": "윤홍",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=776668&week=thu",
+      "img": "https://image-comic.pstatic.net/webtoon/776668/thumbnail/thumbnail_IMAG21_82e1a5b6-754c-425b-af4b-e89382f35997.jpg",
+      "service": "naver",
+      "updateDays": ["thu"],
+      "fanCount": 10,
+      "searchKeyword": "마왕까지한걸음윤홍",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5399624044b9325e60",
+      "webtoonId": 1000000801515,
+      "title": "비서 일탈",
+      "author": "솔방울,꿀봉이,반지영",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=801515&week=thu",
+      "img": "https://image-comic.pstatic.net/webtoon/801515/thumbnail/thumbnail_IMAG21_2e85c821-0398-4b06-9c61-66f729974082.jpg",
+      "service": "naver",
+      "updateDays": ["thu"],
+      "fanCount": 5,
+      "searchKeyword": "비서일탈솔방울꿀봉이반지영",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5399624044b9325e6e",
+      "webtoonId": 1000000785727,
+      "title": "국세청 망나니",
+      "author": "스튜디오 웨이브,동면거북이",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=785727&week=thu",
+      "img": "https://image-comic.pstatic.net/webtoon/785727/thumbnail/thumbnail_IMAG21_4e91ad84-dffc-4475-af5e-a6130136edfb.jpg",
+      "service": "naver",
+      "updateDays": ["thu"],
+      "fanCount": 5,
+      "searchKeyword": "국세청망나니스튜디오웨이브동면거북이",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5399624044b9325e76",
+      "webtoonId": 1000000801698,
+      "title": "게임 최강 트롤러",
+      "author": "박종석,YATO,군만두먹자",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=801698&week=thu",
+      "img": "https://image-comic.pstatic.net/webtoon/801698/thumbnail/thumbnail_IMAG21_52e81ef5-fb49-4f99-801c-0e13c5691c67.",
+      "service": "naver",
+      "updateDays": ["thu"],
+      "fanCount": 5,
+      "searchKeyword": "게임최강트롤러박종석yato군만두먹자",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5499624044b9325e7a",
+      "webtoonId": 1000000792280,
+      "title": "아인슈페너",
+      "author": "한끼룩",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=792280&week=thu",
+      "img": "https://image-comic.pstatic.net/webtoon/792280/thumbnail/thumbnail_IMAG21_ef08524c-1c6d-4941-a532-44cb05261730.jpg",
+      "service": "naver",
+      "updateDays": ["thu"],
+      "fanCount": 5,
+      "searchKeyword": "아인슈페너한끼룩",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5499624044b9325e7e",
+      "webtoonId": 1000000797468,
+      "title": "누나! 나 무서워",
+      "author": "디귿",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=797468&week=thu",
+      "img": "https://image-comic.pstatic.net/webtoon/797468/thumbnail/thumbnail_IMAG21_31b5356a-65c6-4ae3-a8af-92b1c959357f.jpg",
+      "service": "naver",
+      "updateDays": ["thu"],
+      "fanCount": 5,
+      "searchKeyword": "누나나무서워디귿",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5499624044b9325e80",
+      "webtoonId": 1000000798331,
+      "title": "규격 외 혈통 천재",
+      "author": "ZAINO,클로버,소울풍",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=798331&week=thu",
+      "img": "https://image-comic.pstatic.net/webtoon/798331/thumbnail/thumbnail_IMAG21_846e6d29-da15-40cb-9d4f-1c7f5b1a6faa.jpg",
+      "service": "naver",
+      "updateDays": ["thu"],
+      "fanCount": 5,
+      "searchKeyword": "규격외혈통천재zaino클로버소울풍",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5499624044b9325e82",
+      "webtoonId": 1000000799165,
+      "title": "나의 불편한 상사",
+      "author": "탄지,남은경,이다홍",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=799165&week=thu",
+      "img": "https://image-comic.pstatic.net/webtoon/799165/thumbnail/thumbnail_IMAG21_e4cf53a5-8d69-435d-95eb-a68a0128580e.jpg",
+      "service": "naver",
+      "updateDays": ["thu"],
+      "fanCount": 5,
+      "searchKeyword": "나의불편한상사탄지남은경이다홍",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5499624044b9325e86",
+      "webtoonId": 1000000762035,
+      "title": "달의 요람",
+      "author": "이정선",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=762035&week=thu",
+      "img": "https://image-comic.pstatic.net/webtoon/762035/thumbnail/thumbnail_IMAG21_4123154521771304291.jpg",
+      "service": "naver",
+      "updateDays": ["thu"],
+      "fanCount": 5,
+      "searchKeyword": "달의요람이정선",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    }
+  ]
+}

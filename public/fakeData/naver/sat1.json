@@ -1,0 +1,391 @@
+{
+  "lastUpdate": null,
+  "totalWebtoonCount": 6615,
+  "naverWebtoonCount": 2196,
+  "kakaoWebtoonCount": 1910,
+  "kakaoPageWebtoonCount": 2509,
+  "updatedWebtoonCount": 0,
+  "createdWebtoonCount": 0,
+  "webtoons": [
+    {
+      "_id": "63824f5699624044b9325fa4",
+      "webtoonId": 1000000772853,
+      "title": "나태 공자, 노력 천재 되다",
+      "author": "doip,도도문,이등별",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=772853&week=sat",
+      "img": "https://image-comic.pstatic.net/webtoon/772853/thumbnail/thumbnail_IMAG21_7148394817198842420.jpg",
+      "service": "naver",
+      "updateDays": ["sat"],
+      "fanCount": 10,
+      "searchKeyword": "나태공자노력천재되다doip도도문이등별",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": true,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5699624044b9325fa8",
+      "webtoonId": 1000000793374,
+      "title": "완벽한 부부는 없다",
+      "author": "롱별,초이,이다홍",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=793374&week=sat",
+      "img": "https://image-comic.pstatic.net/webtoon/793374/thumbnail/thumbnail_IMAG21_3775484551403496548.jpg",
+      "service": "naver",
+      "updateDays": ["sat"],
+      "fanCount": 10,
+      "searchKeyword": "완벽한부부는없다롱별초이이다홍",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5699624044b9325fb0",
+      "webtoonId": 1000000780404,
+      "title": "물위의 우리",
+      "author": "뱁새,왈패",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=780404&week=sat",
+      "img": "https://image-comic.pstatic.net/webtoon/780404/thumbnail/thumbnail_IMAG21_e9eccbd9-b1c1-49b9-81a8-5bee3291315f.jpg",
+      "service": "naver",
+      "updateDays": ["sat"],
+      "fanCount": 10,
+      "searchKeyword": "물위의우리뱁새왈패",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5699624044b9325fb2",
+      "webtoonId": 1000000784580,
+      "title": "묘령의 황자",
+      "author": "아흐레달",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=784580&week=sat",
+      "img": "https://image-comic.pstatic.net/webtoon/784580/thumbnail/thumbnail_IMAG21_3fd8e5a5-7caf-416e-bf14-ec3bfd7bb13e.jpg",
+      "service": "naver",
+      "updateDays": ["sat"],
+      "fanCount": 10,
+      "searchKeyword": "묘령의황자아흐레달",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5699624044b9325fbc",
+      "webtoonId": 1000000732021,
+      "title": "탑코너",
+      "author": "윤성,라군",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=732021&week=sat",
+      "img": "https://image-comic.pstatic.net/webtoon/732021/thumbnail/thumbnail_IMAG21_3617062741365437232.jpg",
+      "service": "naver",
+      "updateDays": ["sat"],
+      "fanCount": 10,
+      "searchKeyword": "탑코너윤성라군",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5699624044b9325fc4",
+      "webtoonId": 1000000783864,
+      "title": "전생연분",
+      "author": "재아,HAE",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=783864&week=sat",
+      "img": "https://image-comic.pstatic.net/webtoon/783864/thumbnail/thumbnail_IMAG21_965c8626-3cdf-4168-978d-f9315044590a.jpg",
+      "service": "naver",
+      "updateDays": ["sat"],
+      "fanCount": 10,
+      "searchKeyword": "전생연분재아hae",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5699624044b9325fc6",
+      "webtoonId": 1000000739411,
+      "title": "왕세자 입학도",
+      "author": "무번",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=739411&week=sat",
+      "img": "https://image-comic.pstatic.net/webtoon/739411/thumbnail/thumbnail_IMAG21_41bd65cb-fadb-47a2-a595-4faa95d1858c.jpg",
+      "service": "naver",
+      "updateDays": ["sat"],
+      "fanCount": 10,
+      "searchKeyword": "왕세자입학도무번",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5699624044b9325fcc",
+      "webtoonId": 1000000798182,
+      "title": "디펜스 게임의 폭군이 되었다",
+      "author": "하정,굥,류은가람",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=798182&week=sat",
+      "img": "https://image-comic.pstatic.net/webtoon/798182/thumbnail/thumbnail_IMAG21_3129bf23-e1fa-4943-b3d5-9d29e3c8109e.jpg",
+      "service": "naver",
+      "updateDays": ["sat"],
+      "fanCount": 10,
+      "searchKeyword": "디펜스게임의폭군이되었다하정굥류은가람",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5699624044b9325fce",
+      "webtoonId": 1000000703630,
+      "title": "어글리후드",
+      "author": "미애",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=703630&week=sat",
+      "img": "https://image-comic.pstatic.net/webtoon/703630/thumbnail/thumbnail_IMAG21_12acd584-a3fe-40a5-bf47-b1c36dc18387.jpg",
+      "service": "naver",
+      "updateDays": ["sat"],
+      "fanCount": 10,
+      "searchKeyword": "어글리후드미애",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5699624044b9325fd0",
+      "webtoonId": 1000000064997,
+      "title": "나이트런",
+      "author": "김성민",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=64997&week=sat",
+      "img": "https://image-comic.pstatic.net/webtoon/64997/thumbnail/thumbnail_IMAG21_3834645974328108595.jpg",
+      "service": "naver",
+      "updateDays": ["sat"],
+      "fanCount": 10,
+      "searchKeyword": "나이트런김성민",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5699624044b9325faa",
+      "webtoonId": 1000000797844,
+      "title": "폭군 남편과 이혼하겠습니다",
+      "author": "조사라,오윤하",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=797844&week=sat",
+      "img": "https://image-comic.pstatic.net/webtoon/797844/thumbnail/thumbnail_IMAG21_3473510481684150625.jpg",
+      "service": "naver",
+      "updateDays": ["sat"],
+      "fanCount": 5,
+      "searchKeyword": "폭군남편과이혼하겠습니다조사라오윤하",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5699624044b9325fb4",
+      "webtoonId": 1000000800828,
+      "title": "용두사망 소설 속의 악녀가 되었다",
+      "author": "하견,너구리,윤림",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=800828&week=sat",
+      "img": "https://image-comic.pstatic.net/webtoon/800828/thumbnail/thumbnail_IMAG21_bd9dbd1f-322c-4fdc-88f0-135d4a892735.jpg",
+      "service": "naver",
+      "updateDays": ["sat"],
+      "fanCount": 5,
+      "searchKeyword": "용두사망소설속의악녀가되었다하견너구리윤림",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5699624044b9325fd4",
+      "webtoonId": 1000000793553,
+      "title": "이계진입 리로디드",
+      "author": "차우민,쵸쵸,임경배",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=793553&week=sat",
+      "img": "https://image-comic.pstatic.net/webtoon/793553/thumbnail/thumbnail_IMAG21_1afbb206-239d-41d8-832b-cbd6be2b0c0a.jpeg",
+      "service": "naver",
+      "updateDays": ["sat"],
+      "fanCount": 5,
+      "searchKeyword": "이계진입리로디드차우민쵸쵸임경배",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": true,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5699624044b9325fda",
+      "webtoonId": 1000000796252,
+      "title": "다비, 아찔하게 흐르는",
+      "author": "소프트콘,이은비",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=796252&week=sat",
+      "img": "https://image-comic.pstatic.net/webtoon/796252/thumbnail/thumbnail_IMAG21_07b3c0bc-a24e-4411-8996-b38f6a6a2721.jpg",
+      "service": "naver",
+      "updateDays": ["sat"],
+      "fanCount": 5,
+      "searchKeyword": "다비아찔하게흐르는소프트콘이은비",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": true,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5699624044b9325fe4",
+      "webtoonId": 1000000783814,
+      "title": "엑스애쉬",
+      "author": "김세훈,이광수",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=783814&week=sat",
+      "img": "https://image-comic.pstatic.net/webtoon/783814/thumbnail/thumbnail_IMAG21_3472617502213103923.jpg",
+      "service": "naver",
+      "updateDays": ["sat"],
+      "fanCount": 5,
+      "searchKeyword": "엑스애쉬김세훈이광수",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5699624044b9325fac",
+      "webtoonId": 1000000801324,
+      "title": "민간인 통제구역 - 일급기밀",
+      "author": "OSIK",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=801324&week=sat",
+      "img": "https://image-comic.pstatic.net/webtoon/801324/thumbnail/thumbnail_IMAG21_201ca646-5c79-42d2-ad28-49a435dc362e.jpg",
+      "service": "naver",
+      "updateDays": ["sat"],
+      "fanCount": 1,
+      "searchKeyword": "민간인통제구역일급기밀osik",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5699624044b9325fba",
+      "webtoonId": 1000000801516,
+      "title": "아이돌만 하고 싶었는데",
+      "author": "고구렁,와플",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=801516&week=sat",
+      "img": "https://image-comic.pstatic.net/webtoon/801516/thumbnail/thumbnail_IMAG21_f1f2d0bc-e7c5-4697-92a6-e1bb3baeccee.jpg",
+      "service": "naver",
+      "updateDays": ["sat"],
+      "fanCount": 1,
+      "searchKeyword": "아이돌만하고싶었는데고구렁와플",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5699624044b9325fbe",
+      "webtoonId": 1000000793350,
+      "title": "미나 이퀄",
+      "author": "이유정",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=793350&week=sat",
+      "img": "https://image-comic.pstatic.net/webtoon/793350/thumbnail/thumbnail_IMAG21_3545852647434696500.jpg",
+      "service": "naver",
+      "updateDays": ["sat"],
+      "fanCount": 1,
+      "searchKeyword": "미나이퀄이유정",
+      "additional": {
+        "new": false,
+        "adult": true,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5699624044b9325fd8",
+      "webtoonId": 1000000783590,
+      "title": "용사참수인",
+      "author": "김세래",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=783590&week=sat",
+      "img": "https://image-comic.pstatic.net/webtoon/783590/thumbnail/thumbnail_IMAG21_4135765916688540769.jpg",
+      "service": "naver",
+      "updateDays": ["sat"],
+      "fanCount": 1,
+      "searchKeyword": "용사참수인김세래",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5699624044b9325fe2",
+      "webtoonId": 1000000802070,
+      "title": "시선 끝 브로콜리",
+      "author": "모차",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=802070&week=sat",
+      "img": "https://image-comic.pstatic.net/webtoon/802070/thumbnail/thumbnail_IMAG21_28e3fa04-c40c-40f6-b449-3290f0f84c61.jpg",
+      "service": "naver",
+      "updateDays": ["sat"],
+      "fanCount": 1,
+      "searchKeyword": "시선끝브로콜리모차",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    }
+  ]
+}

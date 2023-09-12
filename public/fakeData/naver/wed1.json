@@ -1,0 +1,391 @@
+{
+  "lastUpdate": null,
+  "totalWebtoonCount": 6615,
+  "naverWebtoonCount": 2196,
+  "kakaoWebtoonCount": 1910,
+  "kakaoPageWebtoonCount": 2509,
+  "updatedWebtoonCount": 0,
+  "createdWebtoonCount": 0,
+  "webtoons": [
+    {
+      "_id": "63824f5299624044b9325dce",
+      "webtoonId": 1000000765158,
+      "title": "괴물공작의 딸",
+      "author": "한바다,찬란",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=765158&week=wed",
+      "img": "https://image-comic.pstatic.net/webtoon/765158/thumbnail/thumbnail_IMAG21_7378132256276230709.jpg",
+      "service": "naver",
+      "updateDays": ["wed"],
+      "fanCount": 10,
+      "searchKeyword": "괴물공작의딸한바다찬란",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": true,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5299624044b9325dd2",
+      "webtoonId": 1000000710747,
+      "title": "세상은 돈과 권력",
+      "author": "한동우,이도희",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=710747&week=wed",
+      "img": "https://image-comic.pstatic.net/webtoon/710747/thumbnail/thumbnail_IMAG21_3545518418129085537.jpg",
+      "service": "naver",
+      "updateDays": ["wed"],
+      "fanCount": 10,
+      "searchKeyword": "세상은돈과권력한동우이도희",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": true,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5299624044b9325dd6",
+      "webtoonId": 1000000783861,
+      "title": "헤어지면 죽음",
+      "author": "봄소희,KYMA",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=783861&week=wed",
+      "img": "https://image-comic.pstatic.net/webtoon/783861/thumbnail/thumbnail_IMAG21_7571ae6b-a37c-4d12-8193-cb79c857cfaa.jpg",
+      "service": "naver",
+      "updateDays": ["wed"],
+      "fanCount": 10,
+      "searchKeyword": "헤어지면죽음봄소희kyma",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": true,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5299624044b9325dda",
+      "webtoonId": 1000000789652,
+      "title": "인과관계",
+      "author": "강환영",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=789652&week=wed",
+      "img": "https://image-comic.pstatic.net/webtoon/789652/thumbnail/thumbnail_IMAG21_9e92f54e-ec57-4cd3-9574-9a58455606bf.jpg",
+      "service": "naver",
+      "updateDays": ["wed"],
+      "fanCount": 10,
+      "searchKeyword": "인과관계강환영",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": true,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5299624044b9325de0",
+      "webtoonId": 1000000760002,
+      "title": "반귀",
+      "author": "세정",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=760002&week=wed",
+      "img": "https://image-comic.pstatic.net/webtoon/760002/thumbnail/thumbnail_IMAG21_7017793712846615395.jpg",
+      "service": "naver",
+      "updateDays": ["wed"],
+      "fanCount": 10,
+      "searchKeyword": "반귀세정",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": true,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5399624044b9325de6",
+      "webtoonId": 1000000795330,
+      "title": "선배는 나빠요!",
+      "author": "쟈바칩",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=795330&week=wed",
+      "img": "https://image-comic.pstatic.net/webtoon/795330/thumbnail/thumbnail_IMAG21_76dc830f-e64f-4095-a3f6-712ea83bcc7d.jpg",
+      "service": "naver",
+      "updateDays": ["wed"],
+      "fanCount": 10,
+      "searchKeyword": "선배는나빠요쟈바칩",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": true,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5399624044b9325dea",
+      "webtoonId": 1000000797115,
+      "title": "옆집남자 친구",
+      "author": "꿀삼",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=797115&week=wed",
+      "img": "https://image-comic.pstatic.net/webtoon/797115/thumbnail/thumbnail_IMAG21_f23ac6eb-318d-4b13-ace0-ddcf76563967.jpg",
+      "service": "naver",
+      "updateDays": ["wed"],
+      "fanCount": 10,
+      "searchKeyword": "옆집남자친구꿀삼",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": true,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5399624044b9325dec",
+      "webtoonId": 1000000671421,
+      "title": "언덕 위의 제임스",
+      "author": "쿠당탕",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=671421&week=wed",
+      "img": "https://image-comic.pstatic.net/webtoon/671421/thumbnail/thumbnail_IMAG21_7643171d-08fb-40a8-9da1-813a3b7e784f.jpg",
+      "service": "naver",
+      "updateDays": ["wed"],
+      "fanCount": 10,
+      "searchKeyword": "언덕위의제임스쿠당탕",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": true,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5399624044b9325df2",
+      "webtoonId": 1000000730425,
+      "title": "판타지 여동생!",
+      "author": "유누",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=730425&week=wed",
+      "img": "https://image-comic.pstatic.net/webtoon/730425/thumbnail/thumbnail_IMAG21_3835209134721021750.jpg",
+      "service": "naver",
+      "updateDays": ["wed"],
+      "fanCount": 10,
+      "searchKeyword": "판타지여동생유누",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": true,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5299624044b9325dde",
+      "webtoonId": 1000000800504,
+      "title": "그 남자의 은밀한 하루",
+      "author": "탄단,이로,백묘",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=800504&week=wed",
+      "img": "https://image-comic.pstatic.net/webtoon/800504/thumbnail/thumbnail_IMAG21_de7f2718-2ed9-4688-890d-fc73b9179c1d.jpg",
+      "service": "naver",
+      "updateDays": ["wed"],
+      "fanCount": 5,
+      "searchKeyword": "그남자의은밀한하루탄단이로백묘",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": true,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5299624044b9325de2",
+      "webtoonId": 1000000793388,
+      "title": "주부 육성중",
+      "author": "임현",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=793388&week=wed",
+      "img": "https://image-comic.pstatic.net/webtoon/793388/thumbnail/thumbnail_IMAG21_3481ec05-76fa-4302-9947-7931c6fb8d09.jpg",
+      "service": "naver",
+      "updateDays": ["wed"],
+      "fanCount": 5,
+      "searchKeyword": "주부육성중임현",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": true,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5399624044b9325de4",
+      "webtoonId": 1000000799467,
+      "title": "내겐 너무 소란한 결혼",
+      "author": "이지이,포스스튜디오,노승아",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=799467&week=wed",
+      "img": "https://image-comic.pstatic.net/webtoon/799467/thumbnail/thumbnail_IMAG21_12c13949-64c3-4502-890f-b837cb3cd6f4.jpg",
+      "service": "naver",
+      "updateDays": ["wed"],
+      "fanCount": 5,
+      "searchKeyword": "내겐너무소란한결혼이지이포스스튜디오노승아",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": true,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5399624044b9325dee",
+      "webtoonId": 1000000750558,
+      "title": "로어 올림푸스",
+      "author": "레이첼 스마이스",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=750558&week=wed",
+      "img": "https://image-comic.pstatic.net/webtoon/750558/thumbnail/thumbnail_IMAG21_7148167415155931235.jpg",
+      "service": "naver",
+      "updateDays": ["wed"],
+      "fanCount": 5,
+      "searchKeyword": "로어올림푸스레이첼스마이스",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": true,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5399624044b9325dfc",
+      "webtoonId": 1000000780253,
+      "title": "두 번 사는 프로듀서",
+      "author": "여로운,왕십리글쟁이",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=780253&week=wed",
+      "img": "https://image-comic.pstatic.net/webtoon/780253/thumbnail/thumbnail_IMAG21_c85d6008-87f8-46c8-82b7-2b744dd5723d.jpg",
+      "service": "naver",
+      "updateDays": ["wed"],
+      "fanCount": 5,
+      "searchKeyword": "두번사는프로듀서여로운왕십리글쟁이",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": true,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5299624044b9325dd0",
+      "webtoonId": 1000000801809,
+      "title": "연애고수",
+      "author": "햇님",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=801809&week=wed",
+      "img": "https://image-comic.pstatic.net/webtoon/801809/thumbnail/thumbnail_IMAG21_6764cc3d-eca6-4875-9e34-7c3b50c78bf3.jpg",
+      "service": "naver",
+      "updateDays": ["wed"],
+      "fanCount": 1,
+      "searchKeyword": "연애고수햇님",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": true,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5299624044b9325dd4",
+      "webtoonId": 1000000800312,
+      "title": "이십팔세기 광팬",
+      "author": "컷부",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=800312&week=wed",
+      "img": "https://image-comic.pstatic.net/webtoon/800312/thumbnail/thumbnail_IMAG21_90520e55-609b-4015-8260-974081bce964.jpg",
+      "service": "naver",
+      "updateDays": ["wed", "sat"],
+      "fanCount": 1,
+      "searchKeyword": "이십팔세기광팬컷부",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": true,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5299624044b9325dd8",
+      "webtoonId": 1000000793887,
+      "title": "물고기로 살아남기",
+      "author": "동우",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=793887&week=wed",
+      "img": "https://image-comic.pstatic.net/webtoon/793887/thumbnail/thumbnail_IMAG21_313436b8-ff98-4a9e-98dc-dc2e4839a65e.jpg",
+      "service": "naver",
+      "updateDays": ["wed"],
+      "fanCount": 1,
+      "searchKeyword": "물고기로살아남기동우",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": true,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5399624044b9325de8",
+      "webtoonId": 1000000801593,
+      "title": "사내고충처리반",
+      "author": "정주행,JINU",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=801593&week=wed",
+      "img": "https://image-comic.pstatic.net/webtoon/801593/thumbnail/thumbnail_IMAG21_f551544b-d49b-44b3-8360-fb2594f889ee.jpg",
+      "service": "naver",
+      "updateDays": ["wed"],
+      "fanCount": 1,
+      "searchKeyword": "사내고충처리반정주행jinu",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": true,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5399624044b9325df6",
+      "webtoonId": 1000000792654,
+      "title": "밀행",
+      "author": "H.C,봉선,아슬로",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=792654&week=wed",
+      "img": "https://image-comic.pstatic.net/webtoon/792654/thumbnail/thumbnail_IMAG21_befb7c78-3fb2-44b0-a193-c62736a195fd.jpg",
+      "service": "naver",
+      "updateDays": ["wed"],
+      "fanCount": 1,
+      "searchKeyword": "밀행hc봉선아슬로",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": true,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5399624044b9325df8",
+      "webtoonId": 1000000799016,
+      "title": "어느 백작 영애의 이중생활",
+      "author": "Jeu,킴뽀,최아리",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=799016&week=wed",
+      "img": "https://image-comic.pstatic.net/webtoon/799016/thumbnail/thumbnail_IMAG21_719cf041-6408-4429-85dc-4b2cd2cb930d.jpg",
+      "service": "naver",
+      "updateDays": ["wed"],
+      "fanCount": 1,
+      "searchKeyword": "어느백작영애의이중생활jeu킴뽀최아리",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": true,
+        "singularityList": []
+      }
+    }
+  ]
+}

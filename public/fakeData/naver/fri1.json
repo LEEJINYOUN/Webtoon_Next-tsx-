@@ -1,0 +1,391 @@
+{
+  "lastUpdate": null,
+  "totalWebtoonCount": 6615,
+  "naverWebtoonCount": 2196,
+  "kakaoWebtoonCount": 1910,
+  "kakaoPageWebtoonCount": 2509,
+  "updatedWebtoonCount": 0,
+  "createdWebtoonCount": 0,
+  "webtoons": [
+    {
+      "_id": "63824f5599624044b9325f06",
+      "webtoonId": 1000000801736,
+      "title": "폭군님은 착하게 살고 싶어",
+      "author": "람글,카콘",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=801736&week=fri",
+      "img": "https://image-comic.pstatic.net/webtoon/801736/thumbnail/thumbnail_IMAG21_4cef0649-b3cf-4a27-8eda-afb93d6f6bf4.jpg",
+      "service": "naver",
+      "updateDays": ["fri"],
+      "fanCount": 10,
+      "searchKeyword": "폭군님은착하게살고싶어람글카콘",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5599624044b9325f0e",
+      "webtoonId": 1000000765804,
+      "title": "A.I. 닥터",
+      "author": "ZAINO,쿠큐,한산이가",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=765804&week=fri",
+      "img": "https://image-comic.pstatic.net/webtoon/765804/thumbnail/thumbnail_IMAG21_7003208699811542067.jpg",
+      "service": "naver",
+      "updateDays": ["fri"],
+      "fanCount": 10,
+      "searchKeyword": "ai닥터zaino쿠큐한산이가",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5599624044b9325f12",
+      "webtoonId": 1000000766563,
+      "title": "히어로 킬러",
+      "author": "꿀벌,벌꿀",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=766563&week=fri",
+      "img": "https://image-comic.pstatic.net/webtoon/766563/thumbnail/thumbnail_IMAG21_b71167a5-4409-411e-96e8-f2dad9ddbe00.jpg",
+      "service": "naver",
+      "updateDays": ["fri"],
+      "fanCount": 10,
+      "searchKeyword": "히어로킬러꿀벌벌꿀",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5599624044b9325f1a",
+      "webtoonId": 1000000778325,
+      "title": "미친 후작을 길들이고 말았다",
+      "author": "골지,이레,로판맛집",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=778325&week=fri",
+      "img": "https://image-comic.pstatic.net/webtoon/778325/thumbnail/thumbnail_IMAG21_5998e09b-34fc-42fa-910b-ee9564be0a20.jpg",
+      "service": "naver",
+      "updateDays": ["fri"],
+      "fanCount": 10,
+      "searchKeyword": "미친후작을길들이고말았다골지이레로판맛집",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5599624044b9325f24",
+      "webtoonId": 1000000552960,
+      "title": "더 게이머",
+      "author": "성상영,상아",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=552960&week=fri",
+      "img": "https://image-comic.pstatic.net/webtoon/552960/thumbnail/thumbnail_IMAG21_ce8f3dbb-3891-4e83-9782-64fa7986946e.jpg",
+      "service": "naver",
+      "updateDays": ["fri"],
+      "fanCount": 10,
+      "searchKeyword": "더게이머성상영상아",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5599624044b9325f26",
+      "webtoonId": 1000000793853,
+      "title": "악마라고 불러다오",
+      "author": "자양,써나,안테",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=793853&week=fri",
+      "img": "https://image-comic.pstatic.net/webtoon/793853/thumbnail/thumbnail_IMAG21_3758400f-d46d-41a7-b5be-11ca210b9bc7.jpg",
+      "service": "naver",
+      "updateDays": ["fri"],
+      "fanCount": 10,
+      "searchKeyword": "악마라고불러다오자양써나안테",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5599624044b9325f2c",
+      "webtoonId": 1000000745876,
+      "title": "플레이어",
+      "author": "박종석,오현준",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=745876&week=fri",
+      "img": "https://image-comic.pstatic.net/webtoon/745876/thumbnail/thumbnail_IMAG21_ad75ad2a-a372-4f6c-873c-41ddd2e11f79.jpg",
+      "service": "naver",
+      "updateDays": ["fri"],
+      "fanCount": 10,
+      "searchKeyword": "플레이어박종석오현준",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5599624044b9325f2e",
+      "webtoonId": 1000000783863,
+      "title": "이게 아닌데",
+      "author": "봄소희,김세이",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=783863&week=fri",
+      "img": "https://image-comic.pstatic.net/webtoon/783863/thumbnail/thumbnail_IMAG21_57dd91be-0a96-4371-838d-68d5097dbc3a.jpg",
+      "service": "naver",
+      "updateDays": ["fri"],
+      "fanCount": 10,
+      "searchKeyword": "이게아닌데봄소희김세이",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5599624044b9325f08",
+      "webtoonId": 1000000801992,
+      "title": "뜨거운 홍차",
+      "author": "에리카, 느리,ZZING,김빵",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=801992&week=fri",
+      "img": "https://image-comic.pstatic.net/webtoon/801992/thumbnail/thumbnail_IMAG21_84951a6c-71f7-42d1-8656-2625b47a9de9.jpg",
+      "service": "naver",
+      "updateDays": ["fri"],
+      "fanCount": 5,
+      "searchKeyword": "뜨거운홍차에리카느리zzing김빵",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5599624044b9325f0c",
+      "webtoonId": 1000000801038,
+      "title": "성스러운 그대 이르시길",
+      "author": "26,유다,로주,미나토",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=801038&week=fri",
+      "img": "https://image-comic.pstatic.net/webtoon/801038/thumbnail/thumbnail_IMAG21_8d5b3bb7-f943-4664-becb-8ac9b88a7e7d.jpg",
+      "service": "naver",
+      "updateDays": ["fri"],
+      "fanCount": 5,
+      "searchKeyword": "성스러운그대이르시길26유다로주미나토",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5599624044b9325f10",
+      "webtoonId": 1000000800046,
+      "title": "문제적 왕자님",
+      "author": "선인장,솔체",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=800046&week=fri",
+      "img": "https://image-comic.pstatic.net/webtoon/800046/thumbnail/thumbnail_IMAG21_e4616c3b-b9ad-46d0-b339-faca2653f613.jpg",
+      "service": "naver",
+      "updateDays": ["fri"],
+      "fanCount": 5,
+      "searchKeyword": "문제적왕자님선인장솔체",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": true,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5599624044b9325f14",
+      "webtoonId": 1000000802278,
+      "title": "천하제일 대사형",
+      "author": "YooN,북미혼",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=802278&week=fri",
+      "img": "https://image-comic.pstatic.net/webtoon/802278/thumbnail/thumbnail_IMAG21_311b8a63-cb77-4198-b015-95ef835007ac.jpg",
+      "service": "naver",
+      "updateDays": ["fri"],
+      "fanCount": 5,
+      "searchKeyword": "천하제일대사형yoon북미혼",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5599624044b9325f1c",
+      "webtoonId": 1000000784507,
+      "title": "푸쉬오프",
+      "author": "허5파6",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=784507&week=fri",
+      "img": "https://image-comic.pstatic.net/webtoon/784507/thumbnail/thumbnail_IMAG21_7076337200897603889.jpg",
+      "service": "naver",
+      "updateDays": ["fri"],
+      "fanCount": 5,
+      "searchKeyword": "푸쉬오프허5파6",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5599624044b9325f20",
+      "webtoonId": 1000000797442,
+      "title": "멜빈이 그들에게 남긴 것",
+      "author": "삼칠13,팀 해피게리,류희온",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=797442&week=fri",
+      "img": "https://image-comic.pstatic.net/webtoon/797442/thumbnail/thumbnail_IMAG21_cce91579-a3d8-45c0-b82e-c8e9a64faf69.jpg",
+      "service": "naver",
+      "updateDays": ["fri"],
+      "fanCount": 5,
+      "searchKeyword": "멜빈이그들에게남긴것삼칠13팀해피게리류희온",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5599624044b9325f28",
+      "webtoonId": 1000000794383,
+      "title": "브레이커 : 이터널 포스",
+      "author": "전극진,박진환",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=794383&week=fri",
+      "img": "https://image-comic.pstatic.net/webtoon/794383/thumbnail/thumbnail_IMAG21_7017509145513376051.jpg",
+      "service": "naver",
+      "updateDays": ["fri"],
+      "fanCount": 5,
+      "searchKeyword": "브레이커이터널포스전극진박진환",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5599624044b9325f2a",
+      "webtoonId": 1000000800291,
+      "title": "여자를 사귀고 싶다",
+      "author": "노갓량,영오",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=800291&week=fri",
+      "img": "https://image-comic.pstatic.net/webtoon/800291/thumbnail/thumbnail_IMAG21_270cacdd-57f7-4388-abf2-9e13a43dca24.jpg",
+      "service": "naver",
+      "updateDays": ["fri"],
+      "fanCount": 5,
+      "searchKeyword": "여자를사귀고싶다노갓량영오",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5599624044b9325f0a",
+      "webtoonId": 1000000801555,
+      "title": "언다잉",
+      "author": "임목원",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=801555&week=fri",
+      "img": "https://image-comic.pstatic.net/webtoon/801555/thumbnail/thumbnail_IMAG21_e90dca57-f705-4a4e-8848-752d809b4b8b.jpg",
+      "service": "naver",
+      "updateDays": ["fri"],
+      "fanCount": 1,
+      "searchKeyword": "언다잉임목원",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5599624044b9325f18",
+      "webtoonId": 1000000801773,
+      "title": "하나는 적고 둘은 너무 많아",
+      "author": "젤리피쉬,손모모",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=801773&week=fri",
+      "img": "https://image-comic.pstatic.net/webtoon/801773/thumbnail/thumbnail_IMAG21_ea1917eb-9a72-45ab-a7fe-fa5cbd90b2ca.jpg",
+      "service": "naver",
+      "updateDays": ["fri"],
+      "fanCount": 1,
+      "searchKeyword": "하나는적고둘은너무많아젤리피쉬손모모",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5599624044b9325f30",
+      "webtoonId": 1000000800585,
+      "title": "소름일기",
+      "author": "siAm",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=800585&week=fri",
+      "img": "https://image-comic.pstatic.net/webtoon/800585/thumbnail/thumbnail_IMAG21_11721c44-7e70-45e2-bd2e-da1e4a51922b.jpg",
+      "service": "naver",
+      "updateDays": ["fri"],
+      "fanCount": 1,
+      "searchKeyword": "소름일기siam",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "63824f5599624044b9325f32",
+      "webtoonId": 1000000799838,
+      "title": "메소드 연기법",
+      "author": "김이연",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=799838&week=fri",
+      "img": "https://image-comic.pstatic.net/webtoon/799838/thumbnail/thumbnail_IMAG21_e19883fb-74f1-4491-9b72-8731946a11fc.jpg",
+      "service": "naver",
+      "updateDays": ["fri"],
+      "fanCount": 1,
+      "searchKeyword": "메소드연기법김이연",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": []
+      }
+    }
+  ]
+}
