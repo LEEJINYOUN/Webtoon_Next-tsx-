@@ -1,0 +1,391 @@
+{
+  "lastUpdate": null,
+  "totalWebtoonCount": 6615,
+  "naverWebtoonCount": 2196,
+  "kakaoWebtoonCount": 1910,
+  "kakaoPageWebtoonCount": 2509,
+  "updatedWebtoonCount": 0,
+  "createdWebtoonCount": 0,
+  "webtoons": [
+    {
+      "_id": "638250fd0d980db259c73c38",
+      "webtoonId": 3000049361421,
+      "title": "정령왕 엘퀴네스",
+      "author": "냐르,이환",
+      "url": "https://page.kakao.com/content/49361421",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=Leh0G/hzHNCt2dPy/QWBgV1ur3O2d8LWrKkQb11&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sat"],
+      "fanCount": 20000,
+      "searchKeyword": "정령왕엘퀴네스냐르이환",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250fd0d980db259c73c22",
+      "webtoonId": 3000050289296,
+      "title": "화산전생",
+      "author": "토마씨,정준",
+      "url": "https://page.kakao.com/content/50289296",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=7c05H/hzHNFEilWI/Bs03FBTYKvUCc535kcfeI1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sat"],
+      "fanCount": 16000,
+      "searchKeyword": "화산전생토마씨정준",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250fd0d980db259c73c34",
+      "webtoonId": 3000051706124,
+      "title": "레이디 베이비",
+      "author": "핑민,주해온",
+      "url": "https://page.kakao.com/content/51706124",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=tob61/hzMT64L3O4/kdi4jS3zYro9KrRICjpjbK&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sat"],
+      "fanCount": 6224,
+      "searchKeyword": "레이디베이비핑민주해온",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250fd0d980db259c73c36",
+      "webtoonId": 3000056976992,
+      "title": "접근 불가 레이디",
+      "author": "용두식,시조새,ZI.O,밍숭,킨",
+      "url": "https://page.kakao.com/content/56976992",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=dfiifB/hzHNyZtmKV/cyOuAd7qdt6tgBbVUyCaq1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sat"],
+      "fanCount": 3550,
+      "searchKeyword": "접근불가레이디용두식시조새zio밍숭킨",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250fd0d980db259c73c44",
+      "webtoonId": 3000053142176,
+      "title": "끝이 아닌 시작",
+      "author": "TurtleMe,Fuyuki23",
+      "url": "https://page.kakao.com/content/53142176",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bShk22/hzHNwm3dEb/L2qmdgGNQojhpS2OmaArT0&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sat"],
+      "fanCount": 3361,
+      "searchKeyword": "끝이아닌시작turtlemefuyuki23",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250fd0d980db259c73c26",
+      "webtoonId": 3000054872059,
+      "title": "로그인 무림",
+      "author": "장철벽,제로빅",
+      "url": "https://page.kakao.com/content/54872059",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bHZNy2/hzKkShSFUK/WfR4D671Gx5TiUD7wq3Sk0&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sat"],
+      "fanCount": 3196,
+      "searchKeyword": "로그인무림장철벽제로빅",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250fd0d980db259c73c3c",
+      "webtoonId": 3000055989064,
+      "title": "의원, 다시 살다",
+      "author": "도빈,태선",
+      "url": "https://page.kakao.com/content/55989064",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=wqd6n/hyoXBBdD3T/IImOtgMqme1lKR5t0dEgc0&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sat"],
+      "fanCount": 2313,
+      "searchKeyword": "의원다시살다도빈태선",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250fd0d980db259c73c40",
+      "webtoonId": 3000055872672,
+      "title": "테이밍 마스터",
+      "author": "이야기나무,pallet,박태석",
+      "url": "https://page.kakao.com/content/55872672",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=kqFBD/hzMT2OSrCZ/wfl0xMgVIJzmP7pFiLsYI0&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sat"],
+      "fanCount": 2260,
+      "searchKeyword": "테이밍마스터이야기나무pallet박태석",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250fd0d980db259c73c32",
+      "webtoonId": 3000056413106,
+      "title": "얼어붙은 플레이어의 귀환",
+      "author": "스튜디오 이너스,제리엠",
+      "url": "https://page.kakao.com/content/56413106",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bHDEFg/hzKk0mBuhB/52wZXTv6Mr7h5fjvDNoJvK&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sat"],
+      "fanCount": 2132,
+      "searchKeyword": "얼어붙은플레이어의귀환스튜디오이너스제리엠",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250fd0d980db259c73c46",
+      "webtoonId": 3000058306830,
+      "title": "풍운객잔",
+      "author": "미율,김상훈,주비",
+      "url": "https://page.kakao.com/content/58306830",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bkmiPH/hzCtdNO9rz/5bmQMmCLpRy9PP1Es0I9x1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sat"],
+      "fanCount": 1352,
+      "searchKeyword": "풍운객잔미율김상훈주비",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250fd0d980db259c73c3e",
+      "webtoonId": 3000057809482,
+      "title": "우리가 가족이 될 수 있을까요?",
+      "author": "말차비엔나,한이림",
+      "url": "https://page.kakao.com/content/57809482",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=lf2Bc/hzHNykRPrI/HoEcDtWu43pFRklCDMYPpk&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sat"],
+      "fanCount": 1117,
+      "searchKeyword": "우리가가족이될수있을까요말차비엔나한이림",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250fd0d980db259c73c28",
+      "webtoonId": 3000060183474,
+      "title": "악당 남편과 이혼하려는데, 아이가 생겼다",
+      "author": "윤동백,렘티,백단",
+      "url": "https://page.kakao.com/content/60183474",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bOBdUy/hzHNzkNUq4/9R9JaKaVaphHPGoqBYvODK&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sat"],
+      "fanCount": 900,
+      "searchKeyword": "악당남편과이혼하려는데아이가생겼다윤동백렘티백단",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250fd0d980db259c73c2c",
+      "webtoonId": 3000058799509,
+      "title": "남주의 복지를 책임지겠습니다",
+      "author": "앤트스튜디오,개떡,이지하",
+      "url": "https://page.kakao.com/content/58799509",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=RYBAY/hzMT55WHTs/W8ZvqOD4MrJdPIyiKvgYyk&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sat"],
+      "fanCount": 802,
+      "searchKeyword": "남주의복지를책임지겠습니다앤트스튜디오개떡이지하",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250fd0d980db259c73c3a",
+      "webtoonId": 3000057583317,
+      "title": "내 남편이 너무 귀여워서 곤란하다",
+      "author": "버빈,Rana",
+      "url": "https://page.kakao.com/content/57583317",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=cdRuZF/hzMT98tiB3/iW35IM3MAcgBbIVSLJF8u1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sat"],
+      "fanCount": 760,
+      "searchKeyword": "내남편이너무귀여워서곤란하다버빈rana",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250fd0d980db259c73c2a",
+      "webtoonId": 3000060450303,
+      "title": "악마의 사랑을 받는 딸이래요",
+      "author": "선생,소금,은려원",
+      "url": "https://page.kakao.com/content/60450303",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bmS4ZA/hzN2gLVPiO/ZKk1XkjhdgUw7IpsHYKukk&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sat"],
+      "fanCount": 753,
+      "searchKeyword": "악마의사랑을받는딸이래요선생소금은려원",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250fd0d980db259c73c24",
+      "webtoonId": 3000060022483,
+      "title": "가짜 성녀인데 신들이 집착한다",
+      "author": "나상,휘낭시에,준예",
+      "url": "https://page.kakao.com/content/60022483",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=c1CjtI/hyRyOe78Vq/LWOINHFbP1OScMEENv7NF1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sat"],
+      "fanCount": 739,
+      "searchKeyword": "가짜성녀인데신들이집착한다나상휘낭시에준예",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250fd0d980db259c73c42",
+      "webtoonId": 3000055452034,
+      "title": "나 혼자 소설 속 망나니",
+      "author": "알그,소유현",
+      "url": "https://page.kakao.com/content/55452034",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bHbmfX/hzHNzreBtB/HJBL3drlWhc0V3mlwcymOK&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sat"],
+      "fanCount": 543,
+      "searchKeyword": "나혼자소설속망나니알그소유현",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250fd0d980db259c73c4c",
+      "webtoonId": 3000059664271,
+      "title": "악당의 소중한 따님",
+      "author": "아이링,윤온",
+      "url": "https://page.kakao.com/content/59664271",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=uR8iO/hzCtbCIevf/RX1C7d20EyemsBfUdgOX20&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sat"],
+      "fanCount": 540,
+      "searchKeyword": "악당의소중한따님아이링윤온",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250fd0d980db259c73c4a",
+      "webtoonId": 3000058503976,
+      "title": "콜사인",
+      "author": "조석호,임강혁",
+      "url": "https://page.kakao.com/content/58503976",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=eed5S/hynaE7qlNm/oemZiKfMuoPoYgH8rqh340&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sat"],
+      "fanCount": 452,
+      "searchKeyword": "콜사인조석호임강혁",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250fd0d980db259c73c2e",
+      "webtoonId": 3000060477730,
+      "title": "무공으로 레벨업하는 마왕님",
+      "author": "탸님,AM,아이박슨",
+      "url": "https://page.kakao.com/content/60477730",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=dW0AT/hzKkVMvQm9/FQrKDJK2yKDWGRGt8zHQnk&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sat"],
+      "fanCount": 231,
+      "searchKeyword": "무공으로레벨업하는마왕님탸님am아이박슨",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    }
+  ]
+}

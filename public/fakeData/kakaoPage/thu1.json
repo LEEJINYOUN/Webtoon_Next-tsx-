@@ -1,0 +1,391 @@
+{
+  "lastUpdate": null,
+  "totalWebtoonCount": 6615,
+  "naverWebtoonCount": 2196,
+  "kakaoWebtoonCount": 1910,
+  "kakaoPageWebtoonCount": 2509,
+  "updatedWebtoonCount": 0,
+  "createdWebtoonCount": 0,
+  "webtoons": [
+    {
+      "_id": "638250f70d980db259c7398b",
+      "webtoonId": 3000053666782,
+      "title": "샬롯에게는 다섯 명의 제자가 있다",
+      "author": "용용",
+      "url": "https://page.kakao.com/content/53666782",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=c0K24A/hzHNAQwqii/FCc2hCJVKO2k9jM9KAthl1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["thu"],
+      "fanCount": 11000,
+      "searchKeyword": "샬롯에게는다섯명의제자가있다용용",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["free"]
+      }
+    },
+    {
+      "_id": "638250f70d980db259c73969",
+      "webtoonId": 3000054688834,
+      "title": "악당의 아빠를 꼬셔라",
+      "author": "비아,달슬",
+      "url": "https://page.kakao.com/content/54688834",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=ci41Lr/hzN2oDwpvl/mwlbKtITovXjiyOkKoWh10&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["thu"],
+      "fanCount": 8124,
+      "searchKeyword": "악당의아빠를꼬셔라비아달슬",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250f70d980db259c7397b",
+      "webtoonId": 3000051526841,
+      "title": "신마경천기",
+      "author": "곰국,일황",
+      "url": "https://page.kakao.com/content/51526841",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=db22eZ/hzCtaXTrS7/hxVyM8gLVyGptWx0KsEdXK&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["thu"],
+      "fanCount": 5566,
+      "searchKeyword": "신마경천기곰국일황",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250f70d980db259c73987",
+      "webtoonId": 3000054464663,
+      "title": "24분의 1 로맨스",
+      "author": "김명미",
+      "url": "https://page.kakao.com/content/54464663",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=PF8ta/hzHNFK3T2X/xsro5VboeDNexXYVfKV68k&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["thu"],
+      "fanCount": 3089,
+      "searchKeyword": "24분의1로맨스김명미",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250f70d980db259c7396b",
+      "webtoonId": 3000057388260,
+      "title": "딸 바보가 되었습니다",
+      "author": "SAYAN,기우",
+      "url": "https://page.kakao.com/content/57388260",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bAqb9x/hzCs8FMEJh/7g6bH3OkOATdECrrlyDvB0&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["thu"],
+      "fanCount": 2484,
+      "searchKeyword": "딸바보가되었습니다sayan기우",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250f70d980db259c7398d",
+      "webtoonId": 3000058485712,
+      "title": "대놓고 사내연애",
+      "author": "이베,미도,강달콩",
+      "url": "https://page.kakao.com/content/58485712",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bm5QBq/hzHNykROEe/YiH6mSp01Rp5XSTWvg3dT0&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["thu"],
+      "fanCount": 1432,
+      "searchKeyword": "대놓고사내연애이베미도강달콩",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["over15"]
+      }
+    },
+    {
+      "_id": "638250f70d980db259c73977",
+      "webtoonId": 3000056677367,
+      "title": "지옥에서 돌아온 성좌님",
+      "author": "시치,글쓰는기계",
+      "url": "https://page.kakao.com/content/56677367",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bogsh2/hzHNyLWaYG/Cj2kPqe855MAT1fpXVPkyk&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["thu"],
+      "fanCount": 1427,
+      "searchKeyword": "지옥에서돌아온성좌님시치글쓰는기계",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250f70d980db259c73979",
+      "webtoonId": 3000057814038,
+      "title": "신데렐라는 내가 아니었다",
+      "author": "후안,도바,과앤",
+      "url": "https://page.kakao.com/content/57814038",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bOK6s8/hzKkTAV1qi/6gFR0SIb5oZ6rBTCgoS3sK&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["thu"],
+      "fanCount": 1420,
+      "searchKeyword": "신데렐라는내가아니었다후안도바과앤",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250f70d980db259c73985",
+      "webtoonId": 3000058460997,
+      "title": "가족들이 나한테 집착한다",
+      "author": "치크밀,하냑,이수림",
+      "url": "https://page.kakao.com/content/58460997",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bWrcJw/hynay0I2NZ/JqJHOroxS52rO7qV19fLLk&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["thu"],
+      "fanCount": 1292,
+      "searchKeyword": "가족들이나한테집착한다치크밀하냑이수림",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250f70d980db259c73981",
+      "webtoonId": 3000059617058,
+      "title": "빌어먹을 환생",
+      "author": "키키,박정열,목마",
+      "url": "https://page.kakao.com/content/59617058",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bpF8Du/hzHNw8DaRe/pkBpPD1asWpUySq6UBhhiK&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["thu"],
+      "fanCount": 835,
+      "searchKeyword": "빌어먹을환생키키박정열목마",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250f70d980db259c73975",
+      "webtoonId": 3000059145452,
+      "title": "애착 인형",
+      "author": "호돌,비나비",
+      "url": "https://page.kakao.com/content/59145452",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bv8KO4/hzHNCA0uvB/3QRLgVZ4KEzTkbMicZtMJ0&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["thu"],
+      "fanCount": 791,
+      "searchKeyword": "애착인형호돌비나비",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["over15"]
+      }
+    },
+    {
+      "_id": "638250f70d980db259c73983",
+      "webtoonId": 3000060056677,
+      "title": "주치의는 할 일 다 하고 사표 씁니다",
+      "author": "미음,슈글,유나진",
+      "url": "https://page.kakao.com/content/60056677",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=QOjXR/hzHNFkZit3/wU5WRI4ry28Lm8DVODuZr1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["thu"],
+      "fanCount": 703,
+      "searchKeyword": "주치의는할일다하고사표씁니다미음슈글유나진",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250f70d980db259c73973",
+      "webtoonId": 3000059771249,
+      "title": "사신표월",
+      "author": "목인,INKYO,우각",
+      "url": "https://page.kakao.com/content/59771249",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=clLGUo/hyORTbTjMK/TjHl9164oTu0j5FTKYjfCk&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["thu"],
+      "fanCount": 640,
+      "searchKeyword": "사신표월목인inkyo우각",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250f70d980db259c7396f",
+      "webtoonId": 3000059133025,
+      "title": "다락방 황녀님",
+      "author": "정인,정체불명,자은향",
+      "url": "https://page.kakao.com/content/59133025",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=o3rAc/hyoXxF196w/ealIqliU82iC0kTcEcxEf1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["thu"],
+      "fanCount": 611,
+      "searchKeyword": "다락방황녀님정인정체불명자은향",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["over15"]
+      }
+    },
+    {
+      "_id": "638250f70d980db259c73965",
+      "webtoonId": 3000060579097,
+      "title": "사랑, 하고 있어",
+      "author": "정인,이불,이노",
+      "url": "https://page.kakao.com/content/60579097",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=KbmIB/hzMT5E052N/GyXAQawtDDGu8WjPOtfuKK&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["thu"],
+      "fanCount": 555,
+      "searchKeyword": "사랑하고있어정인이불이노",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["over15"]
+      }
+    },
+    {
+      "_id": "638250f70d980db259c7397d",
+      "webtoonId": 3000060549099,
+      "title": "그 남자는 제 친오빠인데요, 공작님",
+      "author": "CC,조이,여로은",
+      "url": "https://page.kakao.com/content/60549099",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=blx5X8/hzab5QpY78/afn1l3AWLqJkDXMuGHMaN1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["thu"],
+      "fanCount": 539,
+      "searchKeyword": "그남자는제친오빠인데요공작님cc조이여로은",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250f70d980db259c7396d",
+      "webtoonId": 3000058980990,
+      "title": "남이 된 남동생이 남편이 되려 한다",
+      "author": "누렁,용끄,빠직,센리,ab studio",
+      "url": "https://page.kakao.com/content/58980990",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=kOSoT/hzMT3tMlAG/dluAy7K7kA3RU46K8AUiuK&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["thu"],
+      "fanCount": 520,
+      "searchKeyword": "남이된남동생이남편이되려한다누렁용끄빠직센리abstudio",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree", "over15"]
+      }
+    },
+    {
+      "_id": "638250f70d980db259c73989",
+      "webtoonId": 3000060365038,
+      "title": "악녀인데, 엄마가 되어버렸다",
+      "author": "도담,아리휴(WHYNOTME),시세",
+      "url": "https://page.kakao.com/content/60365038",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bY4z4W/hzMT2ae2wG/hQ1IFOsz5IcYIYZApwzM4k&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["thu"],
+      "fanCount": 376,
+      "searchKeyword": "악녀인데엄마가되어버렸다도담아리휴whynotme시세",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250f70d980db259c7397f",
+      "webtoonId": 3000058634756,
+      "title": "따봉으로 레벨업",
+      "author": "전율,땡구,빅라이트",
+      "url": "https://page.kakao.com/content/58634756",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bRNlIn/hzKkRJ1qBj/iRC1fAOXNC0Uohvd9MBvd0&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["thu"],
+      "fanCount": 232,
+      "searchKeyword": "따봉으로레벨업전율땡구빅라이트",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250f70d980db259c73971",
+      "webtoonId": 3000060645585,
+      "title": "성녀는 악역으로 회귀한다",
+      "author": "소나",
+      "url": "https://page.kakao.com/content/60645585",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=h1kgu/hzMUaNebHt/AKD5I30YPKsWptPr4iHn6k&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["thu"],
+      "fanCount": 169,
+      "searchKeyword": "성녀는악역으로회귀한다소나",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["free"]
+      }
+    }
+  ]
+}

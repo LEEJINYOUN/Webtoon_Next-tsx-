@@ -1,0 +1,391 @@
+{
+  "lastUpdate": null,
+  "totalWebtoonCount": 6615,
+  "naverWebtoonCount": 2196,
+  "kakaoWebtoonCount": 1910,
+  "kakaoPageWebtoonCount": 2509,
+  "updatedWebtoonCount": 0,
+  "createdWebtoonCount": 0,
+  "webtoons": [
+    {
+      "_id": "638250ed0d980db259c73561",
+      "webtoonId": 3000047118512,
+      "title": "롱리브더킹",
+      "author": "버드나무숲",
+      "url": "https://page.kakao.com/content/47118512",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bCBtY6/hzHNzc0xsH/55QfuPakoSjbNz02j1iQTk&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["mon"],
+      "fanCount": 18000,
+      "searchKeyword": "롱리브더킹버드나무숲",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250ed0d980db259c73563",
+      "webtoonId": 3000048697412,
+      "title": "아도니스",
+      "author": "구당,결정,혜돌이,팀 아도니스",
+      "url": "https://page.kakao.com/content/48697412",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=gIeQB/hzCs95KUe6/53kkOcfNBkEJiAjdjt56rK&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["mon"],
+      "fanCount": 14000,
+      "searchKeyword": "아도니스구당결정혜돌이팀아도니스",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250ed0d980db259c73571",
+      "webtoonId": 3000054884637,
+      "title": "4000년 만에 귀환한 대마도사",
+      "author": "따개비,김덕용(REDICE STUDIO),낙하산",
+      "url": "https://page.kakao.com/content/54884637",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=EmocH/hzR1TFY2Nx/wbEoGNAqgwTk7kSyS1kuLk&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["mon"],
+      "fanCount": 4304,
+      "searchKeyword": "4000년만에귀환한대마도사따개비김덕용redicestudio낙하산",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["over15"]
+      }
+    },
+    {
+      "_id": "638250ed0d980db259c73579",
+      "webtoonId": 3000056063788,
+      "title": "뒤끝작렬",
+      "author": "조석호,그린스튜디오",
+      "url": "https://page.kakao.com/content/56063788",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=uqK1L/hzHNvhzMYl/hmrqxX99Sk8J3JBxT7UnaK&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["mon", "sun"],
+      "fanCount": 3276,
+      "searchKeyword": "뒤끝작렬조석호그린스튜디오",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250ed0d980db259c73557",
+      "webtoonId": 3000056762916,
+      "title": "무협지 최고 악당의 귀한 딸입니다",
+      "author": "다우,쌀국수,솔땀",
+      "url": "https://page.kakao.com/content/56762916",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bj7X5L/hzVqN3XoRi/KZuprAEDwIrIkkeMZKHQU1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["mon"],
+      "fanCount": 2555,
+      "searchKeyword": "무협지최고악당의귀한딸입니다다우쌀국수솔땀",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250ed0d980db259c73553",
+      "webtoonId": 3000058649535,
+      "title": "하필이면 까마귀가 되어버렸다",
+      "author": "글리,실베스타",
+      "url": "https://page.kakao.com/content/58649535",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=cuHA7z/hyCQ9db1xe/Jt3vGNDs1xRTXaVkRLwhP0&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["mon"],
+      "fanCount": 1710,
+      "searchKeyword": "하필이면까마귀가되어버렸다글리실베스타",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250ed0d980db259c73559",
+      "webtoonId": 3000058578389,
+      "title": "남주를 주웠더니 남편이 생겨버렸다",
+      "author": "마리씨,서촌,초암",
+      "url": "https://page.kakao.com/content/58578389",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=cdMqt9/hzKkUmhtgh/H0SMBAErRcxklmvafipfE0&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["mon"],
+      "fanCount": 1675,
+      "searchKeyword": "남주를주웠더니남편이생겨버렸다마리씨서촌초암",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250ed0d980db259c7356f",
+      "webtoonId": 3000056760327,
+      "title": "후작가의 역대급 막내아들",
+      "author": "케이,넉울히",
+      "url": "https://page.kakao.com/content/56760327",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=fuvYt/hzN2lfJ2Cp/xUJkYyUdQO5m2UXuwwXc60&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["mon"],
+      "fanCount": 1570,
+      "searchKeyword": "후작가의역대급막내아들케이넉울히",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250ed0d980db259c7355b",
+      "webtoonId": 3000056505406,
+      "title": "화산권마",
+      "author": "진선규,우각",
+      "url": "https://page.kakao.com/content/56505406",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=hE60w/hzHNvn8SKC/uv77OBKFek12AMRhmFZsQ0&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["mon"],
+      "fanCount": 1272,
+      "searchKeyword": "화산권마진선규우각",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250ed0d980db259c7357b",
+      "webtoonId": 3000058144564,
+      "title": "사장님의 특별지시",
+      "author": "박한나,지나",
+      "url": "https://page.kakao.com/content/58144564",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bVnhFu/hzCs95Xzqk/skKFzEsvz0dRw4ADY6qZp1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["mon"],
+      "fanCount": 1242,
+      "searchKeyword": "사장님의특별지시박한나지나",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250ed0d980db259c73567",
+      "webtoonId": 3000057142071,
+      "title": "적기사는 눈먼 돈을 좇지 않는다",
+      "author": "송재민,로시원",
+      "url": "https://page.kakao.com/content/57142071",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=2zQ42/hzCtacwedq/dVZVsMs8YWvYGNKu74MrB1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["mon"],
+      "fanCount": 1219,
+      "searchKeyword": "적기사는눈먼돈을좇지않는다송재민로시원",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250ed0d980db259c7355f",
+      "webtoonId": 3000059883324,
+      "title": "만 년 만에 귀환한 플레이어",
+      "author": "맹주경(Terapin),4PLAYER(Terapin),나비계곡",
+      "url": "https://page.kakao.com/content/59883324",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=TjuEz/hyZIeJUt8T/HW0fLO5KIo7TP8EbiBKO6k&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["mon"],
+      "fanCount": 1212,
+      "searchKeyword": "만년만에귀환한플레이어맹주경terapin4playerterapin나비계곡",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250ed0d980db259c7356b",
+      "webtoonId": 3000057492806,
+      "title": "우선 남동생부터 숨기자",
+      "author": "자목,미나,천리,채지후",
+      "url": "https://page.kakao.com/content/57492806",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=v1GHC/hzHNCANMZm/hSs24lrSVaCtpFrMfvlt1k&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["mon"],
+      "fanCount": 1128,
+      "searchKeyword": "우선남동생부터숨기자자목미나천리채지후",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250ed0d980db259c7355d",
+      "webtoonId": 3000057711142,
+      "title": "다시 한번 아이돌",
+      "author": "메이 스튜디오,틴타",
+      "url": "https://page.kakao.com/content/57711142",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bGLx6T/hzMUbeXeX7/aeezK8HCCZboDcQ27tgnwK&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["mon"],
+      "fanCount": 1024,
+      "searchKeyword": "다시한번아이돌메이스튜디오틴타",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250ed0d980db259c73577",
+      "webtoonId": 3000058179782,
+      "title": "여왕 쎄시아의 반바지",
+      "author": "새들,재겸",
+      "url": "https://page.kakao.com/content/58179782",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=cghLvR/hzMUbd9zaX/KC3ctjfhquLniOkCGlhW3K&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["mon"],
+      "fanCount": 1022,
+      "searchKeyword": "여왕쎄시아의반바지새들재겸",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250ed0d980db259c73569",
+      "webtoonId": 3000058561966,
+      "title": "남자 주인공이 내 앞길을 가로막는다",
+      "author": "SION,덕복,주아리",
+      "url": "https://page.kakao.com/content/58561966",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bOYa3X/hzHNETUm8b/XIqKXaFGMjLEN4QhaYslAK&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["mon"],
+      "fanCount": 1005,
+      "searchKeyword": "남자주인공이내앞길을가로막는다sion덕복주아리",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250ed0d980db259c73575",
+      "webtoonId": 3000057925268,
+      "title": "뽑기로 강해진 SSS급 헌터",
+      "author": "개작가,윤석준,삼편잡가",
+      "url": "https://page.kakao.com/content/57925268",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=ecRtPu/hzCs778XjO/jHfb1gSrUMPfvv13bxdK70&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["mon"],
+      "fanCount": 623,
+      "searchKeyword": "뽑기로강해진sss급헌터개작가윤석준삼편잡가",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree", "over15"]
+      }
+    },
+    {
+      "_id": "638250ed0d980db259c73565",
+      "webtoonId": 3000059885723,
+      "title": "엑스트라는 가장 먼저 버려진다",
+      "author": "피피치(해피북스투유),도세진(악어스튜디오),백청명",
+      "url": "https://page.kakao.com/content/59885723",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=RekmE/hynaCIuUjm/xPxe4YY3iC9Bh4q2qk5aY0&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["mon"],
+      "fanCount": 573,
+      "searchKeyword": "엑스트라는가장먼저버려진다피피치해피북스투유도세진악어스튜디오백청명",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250ed0d980db259c73573",
+      "webtoonId": 3000059422125,
+      "title": "성자는 개뿔, 현대의학의 힘이다",
+      "author": "로렌조,함미,고리프",
+      "url": "https://page.kakao.com/content/59422125",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=czSMhF/hzHNwnflpn/KHXk0x217IbvmqZOyXDa7k&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["mon"],
+      "fanCount": 446,
+      "searchKeyword": "성자는개뿔현대의학의힘이다로렌조함미고리프",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250ed0d980db259c7356d",
+      "webtoonId": 3000059533333,
+      "title": "상사와의 수상한 잠자리",
+      "author": "구공,GYU,가현",
+      "url": "https://page.kakao.com/content/59533333",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bvMFDL/hzVqNwaHPP/aYlGKI0kvBqigxXejlFOK1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["mon"],
+      "fanCount": 402,
+      "searchKeyword": "상사와의수상한잠자리구공gyu가현",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    }
+  ]
+}

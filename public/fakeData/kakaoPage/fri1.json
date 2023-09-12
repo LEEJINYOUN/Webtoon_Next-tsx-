@@ -1,0 +1,391 @@
+{
+  "lastUpdate": null,
+  "totalWebtoonCount": 6615,
+  "naverWebtoonCount": 2196,
+  "kakaoWebtoonCount": 1910,
+  "kakaoPageWebtoonCount": 2509,
+  "updatedWebtoonCount": 0,
+  "createdWebtoonCount": 0,
+  "webtoons": [
+    {
+      "_id": "638250fa0d980db259c73ab8",
+      "webtoonId": 3000052697368,
+      "title": "두 번 사는 랭커",
+      "author": "농농,사도연",
+      "url": "https://page.kakao.com/content/52697368",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bEYAp3/hzHND0Mtab/YgSH0kAmxiEmfkVsWU6Jkk&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["fri"],
+      "fanCount": 7080,
+      "searchKeyword": "두번사는랭커농농사도연",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250fa0d980db259c73aca",
+      "webtoonId": 3000052044069,
+      "title": "치트라",
+      "author": "레페,태선",
+      "url": "https://page.kakao.com/content/52044069",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=niAc1/hzMT98srPZ/2WrojhNVX1dX6Ox1dtkuZ0&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["fri"],
+      "fanCount": 6277,
+      "searchKeyword": "치트라레페태선",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250f90d980db259c73aac",
+      "webtoonId": 3000054845189,
+      "title": "악역의 엔딩은 죽음뿐",
+      "author": "수월,권겨을",
+      "url": "https://page.kakao.com/content/54845189",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=EiSWs/hzCtbJgZmY/mbl8dMPqHsSIXnQKiUHLPK&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["fri"],
+      "fanCount": 6243,
+      "searchKeyword": "악역의엔딩은죽음뿐수월권겨을",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250fa0d980db259c73ab0",
+      "webtoonId": 3000054015654,
+      "title": "비뢰도",
+      "author": "오주,Awin,검류혼",
+      "url": "https://page.kakao.com/content/54015654",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=IMqqN/hzCs9xUMWH/qn2cZhA4i9VZhpk4pxDcMK&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["fri"],
+      "fanCount": 5954,
+      "searchKeyword": "비뢰도오주awin검류혼",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250fa0d980db259c73ac8",
+      "webtoonId": 3000053150006,
+      "title": "베아트리체",
+      "author": "Cierra,마셰리",
+      "url": "https://page.kakao.com/content/53150006",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=JDlFM/hzCtelTJwy/v529wLKhI9jKPHbfg9T1H0&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["fri"],
+      "fanCount": 2411,
+      "searchKeyword": "베아트리체cierra마셰리",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree", "over15"]
+      }
+    },
+    {
+      "_id": "638250fa0d980db259c73abc",
+      "webtoonId": 3000055291149,
+      "title": "아빠가 너무 강함",
+      "author": "모다인,개벽S",
+      "url": "https://page.kakao.com/content/55291149",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=gzyJC/hzMUa0w4yM/zqxAm05RUXTkk4awFBM5Sk&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["fri"],
+      "fanCount": 2143,
+      "searchKeyword": "아빠가너무강함모다인개벽s",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250fa0d980db259c73ab6",
+      "webtoonId": 3000057770713,
+      "title": "다시 한번, 빛 속으로",
+      "author": "유야,티카티카",
+      "url": "https://page.kakao.com/content/57770713",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=dEwqEX/hzHNzd5ViD/n0A13WJ0oYKpdF1GmBash1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["fri"],
+      "fanCount": 2094,
+      "searchKeyword": "다시한번빛속으로유야티카티카",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250f90d980db259c73aae",
+      "webtoonId": 3000059494826,
+      "title": "주인공의 구원자가 될 운명입니다",
+      "author": "도담(WHYNOTME),팀 해피게리,은소로",
+      "url": "https://page.kakao.com/content/59494826",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=cOsWq5/hzCtgX8OWF/xtajS9LBoThsPkquRajZ50&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["fri"],
+      "fanCount": 1886,
+      "searchKeyword": "주인공의구원자가될운명입니다도담whynotme팀해피게리은소로",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250f90d980db259c73aaa",
+      "webtoonId": 3000060493041,
+      "title": "이 결혼은 어차피 망하게 되어 있다",
+      "author": "초캄,청과,김차차",
+      "url": "https://page.kakao.com/content/60493041",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=BQ8Ov/hzKkUmpyph/kh0WYjeJcpfMOSEURwmLD0&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["fri"],
+      "fanCount": 1677,
+      "searchKeyword": "이결혼은어차피망하게되어있다초캄청과김차차",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["over15"]
+      }
+    },
+    {
+      "_id": "638250fa0d980db259c73ac2",
+      "webtoonId": 3000057096997,
+      "title": "폭군의 비서관이 되었습니다",
+      "author": "제이,기오,이인혜",
+      "url": "https://page.kakao.com/content/57096997",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=XIfdb/hzHNDs8FYV/MpKI7nOaq2LS1jVYmQYQT0&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["fri"],
+      "fanCount": 1652,
+      "searchKeyword": "폭군의비서관이되었습니다제이기오이인혜",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250fa0d980db259c73ac0",
+      "webtoonId": 3000052871859,
+      "title": "당골의 신부",
+      "author": "오주,나은성",
+      "url": "https://page.kakao.com/content/52871859",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=osLNY/hynaHwD6vj/APa9RBvdNP5fDEKpG5QqSK&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["fri"],
+      "fanCount": 1407,
+      "searchKeyword": "당골의신부오주나은성",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250fa0d980db259c73ac6",
+      "webtoonId": 3000058031028,
+      "title": "서울역 네크로맨서",
+      "author": "신지훈,지성웅,진설우",
+      "url": "https://page.kakao.com/content/58031028",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bHPp7V/hzHNy6eXST/KWoHSyWnIobeKNwcLVrUqk&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["fri"],
+      "fanCount": 1191,
+      "searchKeyword": "서울역네크로맨서신지훈지성웅진설우",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["over15"]
+      }
+    },
+    {
+      "_id": "638250fa0d980db259c73aba",
+      "webtoonId": 3000060535985,
+      "title": "소꿉친구가 집착 남편이 되었다",
+      "author": "스튜디오 이너스,여지,윤달(YounDal)",
+      "url": "https://page.kakao.com/content/60535985",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bKcSDa/hzMT7peibC/LxKfrrAazBRKYEDzmiKbJ0&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["fri"],
+      "fanCount": 717,
+      "searchKeyword": "소꿉친구가집착남편이되었다스튜디오이너스여지윤달youndal",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250fa0d980db259c73abe",
+      "webtoonId": 3000058701452,
+      "title": "아쉴레앙 공작의 계약 결혼",
+      "author": "은오,단청,오노아,이슈앤",
+      "url": "https://page.kakao.com/content/58701452",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bjeVWv/hzKkZ9coUn/Rp5Klv7FTUzOhn8lGmtzy0&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["fri"],
+      "fanCount": 697,
+      "searchKeyword": "아쉴레앙공작의계약결혼은오단청오노아이슈앤",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250fa0d980db259c73acc",
+      "webtoonId": 3000059787998,
+      "title": "용사의 어머니가 되겠습니다",
+      "author": "카푸,엘리아냥",
+      "url": "https://page.kakao.com/content/59787998",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bOkQdD/hyZIcFnxc1/kyhArfQsR3JXmfR7bY0Rhk&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["fri"],
+      "fanCount": 597,
+      "searchKeyword": "용사의어머니가되겠습니다카푸엘리아냥",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250fa0d980db259c73ab4",
+      "webtoonId": 3000060492600,
+      "title": "구천구검",
+      "author": "메이저 톰,세인트 나인,조진행",
+      "url": "https://page.kakao.com/content/60492600",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=dEj0yi/hzMT7Qe5TP/4ckolaqgDqwG3iQOjkUUH0&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["fri"],
+      "fanCount": 580,
+      "searchKeyword": "구천구검메이저톰세인트나인조진행",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250f90d980db259c73aa8",
+      "webtoonId": 3000060626628,
+      "title": "이혼한 악녀는 케이크를 굽는다",
+      "author": "단풍새,밤파랑,민들레와인",
+      "url": "https://page.kakao.com/content/60626628",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bTYwtz/hyORTDlWnf/sp0Jg3pfGfz0qXBYImU7v1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["fri"],
+      "fanCount": 452,
+      "searchKeyword": "이혼한악녀는케이크를굽는다단풍새밤파랑민들레와인",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250fa0d980db259c73ac4",
+      "webtoonId": 3000060361146,
+      "title": "아기 신수로 환생했습니다",
+      "author": "버들,리프,연백림",
+      "url": "https://page.kakao.com/content/60361146",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=rFOdV/hyoXxFuEAn/7yYGj8n3EGEzdfHjKRKZY1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["fri"],
+      "fanCount": 441,
+      "searchKeyword": "아기신수로환생했습니다버들리프연백림",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250f80d980db259c73a18",
+      "webtoonId": 3000056821501,
+      "title": "최강 헌터로 살아남는 법",
+      "author": "대행도,천지일순",
+      "url": "https://page.kakao.com/content/56821501",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=egHh28/hzHNES8LHe/eyPmnRdWKHoRBPJBwjQCVk&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["thu", "fri", "sat"],
+      "fanCount": 397,
+      "searchKeyword": "최강헌터로살아남는법대행도천지일순",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250f90d980db259c73a4a",
+      "webtoonId": 3000057410595,
+      "title": "용의 계승자",
+      "author": "IQIYI,데몬프로그,극광",
+      "url": "https://page.kakao.com/content/57410595",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bSpft1/hyZIaAKL6S/RqOLprgPZjU9sTOvE38LPk&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["thu", "fri"],
+      "fanCount": 118,
+      "searchKeyword": "용의계승자iqiyi데몬프로그극광",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    }
+  ]
+}

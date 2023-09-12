@@ -1,0 +1,391 @@
+{
+  "lastUpdate": null,
+  "totalWebtoonCount": 6615,
+  "naverWebtoonCount": 2196,
+  "kakaoWebtoonCount": 1910,
+  "kakaoPageWebtoonCount": 2509,
+  "updatedWebtoonCount": 0,
+  "createdWebtoonCount": 0,
+  "webtoons": [
+    {
+      "_id": "638250ff0d980db259c73d96",
+      "webtoonId": 3000051185123,
+      "title": "귀환자의 마법은 특별해야 합니다",
+      "author": "욱작가,유소난",
+      "url": "https://page.kakao.com/content/51185123",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bKCTEq/hyoXzDNPKK/F66QGaVA3keG6OhZCGoWW1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sun"],
+      "fanCount": 8409,
+      "searchKeyword": "귀환자의마법은특별해야합니다욱작가유소난",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250ff0d980db259c73d90",
+      "webtoonId": 3000054934782,
+      "title": "나를 버려주세요",
+      "author": "코타비,채로,자은향",
+      "url": "https://page.kakao.com/content/54934782",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=esRFOs/hzHNzD4T0G/fwl0k6DgllQiWwWXT43anK&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sun"],
+      "fanCount": 3597,
+      "searchKeyword": "나를버려주세요코타비채로자은향",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250ff0d980db259c73d8a",
+      "webtoonId": 3000055884394,
+      "title": "무당기협",
+      "author": "화람,은열",
+      "url": "https://page.kakao.com/content/55884394",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=b2s7Qz/hyCRawZWxt/KcJJgB4KT4lznz1sRIdRs1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sun"],
+      "fanCount": 3215,
+      "searchKeyword": "무당기협화람은열",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250ff0d980db259c73da0",
+      "webtoonId": 3000056109623,
+      "title": "닳고닳은 뉴비",
+      "author": "보늬,레고밟았어",
+      "url": "https://page.kakao.com/content/56109623",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=czuMhp/hzHNBommmT/AfOM7Fnd3iLtCs609ZlRcK&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sun"],
+      "fanCount": 2923,
+      "searchKeyword": "닳고닳은뉴비보늬레고밟았어",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250ff0d980db259c73d9c",
+      "webtoonId": 3000056310553,
+      "title": "폭군을 길들이고 도망쳐버렸다",
+      "author": "지현,멜팅,유소이",
+      "url": "https://page.kakao.com/content/56310553",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=cPHHg/hzCtaDBcGv/CgkollJoOmtoS8cF30ie9k&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sun"],
+      "fanCount": 2859,
+      "searchKeyword": "폭군을길들이고도망쳐버렸다지현멜팅유소이",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250ff0d980db259c73d8c",
+      "webtoonId": 3000056599549,
+      "title": "수라전설 독룡",
+      "author": "영광(앤트스튜디오),시니어",
+      "url": "https://page.kakao.com/content/56599549",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=GMHGs/hzKk01k6Io/LTJzhzsbYJkxklnLPXvbK1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sun"],
+      "fanCount": 2342,
+      "searchKeyword": "수라전설독룡영광앤트스튜디오시니어",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250ff0d980db259c73d92",
+      "webtoonId": 3000057451201,
+      "title": "역대급 창기사의 회귀",
+      "author": "조후상,스튜디오 이너스,조선생님",
+      "url": "https://page.kakao.com/content/57451201",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=cM8mCG/hzCs7NRCpK/l3ak0RidFYyjdlZIxwqL81&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sun"],
+      "fanCount": 2295,
+      "searchKeyword": "역대급창기사의회귀조후상스튜디오이너스조선생님",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250ff0d980db259c73d86",
+      "webtoonId": 3000057662069,
+      "title": "악녀는 오늘도 즐겁다",
+      "author": "삼월에,스튜,니니양",
+      "url": "https://page.kakao.com/content/57662069",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bdLphD/hzHNE7sKRT/wvVVh8PbjKRKB75cH7BFBK&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sun"],
+      "fanCount": 2236,
+      "searchKeyword": "악녀는오늘도즐겁다삼월에스튜니니양",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250ff0d980db259c73da4",
+      "webtoonId": 3000055541933,
+      "title": "정령 농사꾼",
+      "author": "구식이,수색영장",
+      "url": "https://page.kakao.com/content/55541933",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=mdsnm/hyoXx6MUQA/w4n4pyHkqWQvqOBfWFuNd1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sun"],
+      "fanCount": 2085,
+      "searchKeyword": "정령농사꾼구식이수색영장",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250ff0d980db259c73d9e",
+      "webtoonId": 3000056271898,
+      "title": "무협지 악녀인데 내가 제일 쎄!",
+      "author": "가비남,유아니,윌브라이트",
+      "url": "https://page.kakao.com/content/56271898",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=fzjnh/hzCs8lwvi7/6DcoRILGk6PfobCKJrUPk1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sun"],
+      "fanCount": 2014,
+      "searchKeyword": "무협지악녀인데내가제일쎄가비남유아니윌브라이트",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250ff0d980db259c73d88",
+      "webtoonId": 3000057021973,
+      "title": "소꿉친구를 폭군으로 키웠습니다",
+      "author": "정선,랑채",
+      "url": "https://page.kakao.com/content/57021973",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=IUWf2/hzN2l090AC/mKsKMJkHsUqmBejG8hWg00&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sun"],
+      "fanCount": 1742,
+      "searchKeyword": "소꿉친구를폭군으로키웠습니다정선랑채",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250ff0d980db259c73d9a",
+      "webtoonId": 3000056329995,
+      "title": "천재 의사 이무진",
+      "author": "김형사,이해날",
+      "url": "https://page.kakao.com/content/56329995",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=6mQgS/hynazyvPKB/bpQPZAh86pincIJFvUCLR0&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sun"],
+      "fanCount": 1716,
+      "searchKeyword": "천재의사이무진김형사이해날",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250ff0d980db259c73daa",
+      "webtoonId": 3000057997072,
+      "title": "죽음 대신 결혼",
+      "author": "도개비,밀",
+      "url": "https://page.kakao.com/content/57997072",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bsBHxl/hzKkZUTrVV/hXRhuTcD08NLx7N740aKEK&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sun"],
+      "fanCount": 1579,
+      "searchKeyword": "죽음대신결혼도개비밀",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["over15"]
+      }
+    },
+    {
+      "_id": "638250ff0d980db259c73da2",
+      "webtoonId": 3000059936004,
+      "title": "존재",
+      "author": "광진,김경준",
+      "url": "https://page.kakao.com/content/59936004",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bm6LYO/hyZIclPGMG/nAlkh109X6kniAbiAhhPh1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sun"],
+      "fanCount": 839,
+      "searchKeyword": "존재광진김경준",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["free", "over15"]
+      }
+    },
+    {
+      "_id": "638250ff0d980db259c73d98",
+      "webtoonId": 3000059981278,
+      "title": "남장여주라고 했잖아요!",
+      "author": "단풍새,이나,강다윤",
+      "url": "https://page.kakao.com/content/59981278",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=RKHiG/hzHNBCU6us/fllgBfdbSLEDWzgF16tMk1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sun"],
+      "fanCount": 533,
+      "searchKeyword": "남장여주라고했잖아요단풍새이나강다윤",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250ff0d980db259c73dae",
+      "webtoonId": 3000059528467,
+      "title": "학사검전",
+      "author": "제행무상,박성우,최현우",
+      "url": "https://page.kakao.com/content/59528467",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=b3d6HX/hzab5J1i7p/YpLY2Fbk92uTFcU6vok1KK&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sun"],
+      "fanCount": 497,
+      "searchKeyword": "학사검전제행무상박성우최현우",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250ff0d980db259c73d8e",
+      "webtoonId": 3000060425430,
+      "title": "공작가의 흑막 영애님",
+      "author": "여도하,유인(流人)",
+      "url": "https://page.kakao.com/content/60425430",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=osIvz/hzMT9ghwvv/kbHEV5k8WUfmVLDp3czzy0&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sun"],
+      "fanCount": 407,
+      "searchKeyword": "공작가의흑막영애님여도하유인流人",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250ff0d980db259c73da8",
+      "webtoonId": 3000060285583,
+      "title": "학교로 간 보스",
+      "author": "후추,트래블러",
+      "url": "https://page.kakao.com/content/60285583",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bi5lSM/hzMT6KvK8Y/kfEeoXjplvg7u3kiAhOFgk&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sun"],
+      "fanCount": 389,
+      "searchKeyword": "학교로간보스후추트래블러",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["over15"]
+      }
+    },
+    {
+      "_id": "638250ff0d980db259c73dac",
+      "webtoonId": 3000060530230,
+      "title": "괴식식당",
+      "author": "신현범,재라,메제드K",
+      "url": "https://page.kakao.com/content/60530230",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bmC4Ib/hyORTJ6KhN/BlK2E1SO51wPSVMjYmM1Ek&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sun"],
+      "fanCount": 290,
+      "searchKeyword": "괴식식당신현범재라메제드k",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250ff0d980db259c73d94",
+      "webtoonId": 3000060622337,
+      "title": "사이코메트러 - 기억의 파편",
+      "author": "와이낫미프로덕션,Ando Yuma · Asaki Masashi",
+      "url": "https://page.kakao.com/content/60622337",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bzjHaO/hzMT1ik62k/kXfWAysUrS9fFlcWvhZlgK&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["sun"],
+      "fanCount": 103,
+      "searchKeyword": "사이코메트러기억의파편와이낫미프로덕션andoyuma·asakimasashi",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree", "over15"]
+      }
+    }
+  ]
+}

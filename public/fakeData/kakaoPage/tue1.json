@@ -1,0 +1,391 @@
+{
+  "lastUpdate": null,
+  "totalWebtoonCount": 6615,
+  "naverWebtoonCount": 2196,
+  "kakaoWebtoonCount": 1910,
+  "kakaoPageWebtoonCount": 2509,
+  "updatedWebtoonCount": 0,
+  "createdWebtoonCount": 0,
+  "webtoons": [
+    {
+      "_id": "638250f10d980db259c736c3",
+      "webtoonId": 3000049314208,
+      "title": "빛과 그림자 + 골든 타임",
+      "author": "하토,희원,류향",
+      "url": "https://page.kakao.com/content/49314208",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bviq6Z/hzCthCH6dr/wzg1AbCTKUUXOuHGFwMPM0&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["tue"],
+      "fanCount": 10000,
+      "searchKeyword": "빛과그림자골든타임하토희원류향",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["over15"]
+      }
+    },
+    {
+      "_id": "638250f10d980db259c736b9",
+      "webtoonId": 3000053939289,
+      "title": "빈껍데기 공작부인",
+      "author": "한진서,진세하",
+      "url": "https://page.kakao.com/content/53939289",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=c4uCjk/hzN2fUhih8/d80hc2G4Frtdud11PSPeBk&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["tue"],
+      "fanCount": 6352,
+      "searchKeyword": "빈껍데기공작부인한진서진세하",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250f00d980db259c736a7",
+      "webtoonId": 3000056148134,
+      "title": "못난이 공녀가 되었습니다",
+      "author": "강세아,정하임",
+      "url": "https://page.kakao.com/content/56148134",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=c8mVFh/hyCRaQKQvR/H2vsaBoWMQUwp9U9Go38i1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["tue"],
+      "fanCount": 2680,
+      "searchKeyword": "못난이공녀가되었습니다강세아정하임",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250f00d980db259c736ab",
+      "webtoonId": 3000056070306,
+      "title": "남주의 엄마가 되어버렸다",
+      "author": "은산,엉쓰,고은채",
+      "url": "https://page.kakao.com/content/56070306",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=bPIRza/hzHNBWcglI/uTfNJiJlpEu3UtOu4OFTDk&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["tue"],
+      "fanCount": 2311,
+      "searchKeyword": "남주의엄마가되어버렸다은산엉쓰고은채",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250f00d980db259c736a1",
+      "webtoonId": 3000056712146,
+      "title": "악녀를 죽여 줘",
+      "author": "해기,사월생",
+      "url": "https://page.kakao.com/content/56712146",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=9vtc3/hzVqLd2RAh/7m499f1cElgBktWLuWoAc0&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["tue"],
+      "fanCount": 2287,
+      "searchKeyword": "악녀를죽여줘해기사월생",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250f10d980db259c736b5",
+      "webtoonId": 3000055531681,
+      "title": "학사귀환",
+      "author": "외솔,소유현",
+      "url": "https://page.kakao.com/content/55531681",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=A39c2/hzHNzK3mvo/SyErIW6IVP8hq6sCzhHtGk&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["tue"],
+      "fanCount": 1719,
+      "searchKeyword": "학사귀환외솔소유현",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250f00d980db259c736a3",
+      "webtoonId": 3000058725187,
+      "title": "화타가 된 외과의사",
+      "author": "샤이멜,최병익,박동신",
+      "url": "https://page.kakao.com/content/58725187",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=60nej/hzCtfZryhh/EVXnI7cPKUxSBBc39RJ8A1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["tue"],
+      "fanCount": 1113,
+      "searchKeyword": "화타가된외과의사샤이멜최병익박동신",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250f10d980db259c736b3",
+      "webtoonId": 3000059990953,
+      "title": "SSS급 랭커 회귀하다",
+      "author": "핀볼,Rooty House,갈드",
+      "url": "https://page.kakao.com/content/59990953",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=ebozDf/hzHNAwSqdT/2HAxbAwM0Iw0BUBzPG0rK0&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["tue"],
+      "fanCount": 974,
+      "searchKeyword": "sss급랭커회귀하다핀볼rootyhouse갈드",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250f10d980db259c736bf",
+      "webtoonId": 3000058483147,
+      "title": "집착 서브 남주를 키웠습니다",
+      "author": "린우,TK,윤하월",
+      "url": "https://page.kakao.com/content/58483147",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=cAqvLo/hzMT3tvpEL/M6D3PJCIaYK82qeM89ct41&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["tue"],
+      "fanCount": 939,
+      "searchKeyword": "집착서브남주를키웠습니다린우tk윤하월",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250f00d980db259c736a9",
+      "webtoonId": 3000059460503,
+      "title": "악녀 시어머니를 그만뒀더니, 다들 내게 집착한다",
+      "author": "소망,Rana",
+      "url": "https://page.kakao.com/content/59460503",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=BdtJX/hzCtbbDXOh/8l5UJEjJWQCkuAIB6K9pYk&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["tue"],
+      "fanCount": 880,
+      "searchKeyword": "악녀시어머니를그만뒀더니다들내게집착한다소망rana",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250f10d980db259c736bb",
+      "webtoonId": 3000056667301,
+      "title": "나는 남주의 전 여친이었다",
+      "author": "쥐똥새똥,태자",
+      "url": "https://page.kakao.com/content/56667301",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=i2IAg/hyRyOsyKIC/uDvM6SKYg7iOO73QrhLYbK&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["tue"],
+      "fanCount": 825,
+      "searchKeyword": "나는남주의전여친이었다쥐똥새똥태자",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250f10d980db259c736c1",
+      "webtoonId": 3000058274684,
+      "title": "부서진 성좌의 회귀",
+      "author": "양경일,사도연",
+      "url": "https://page.kakao.com/content/58274684",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=kErKw/hzR1UMqUPz/O3m3cJnhpaqWP9WBiAmaL0&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["tue"],
+      "fanCount": 788,
+      "searchKeyword": "부서진성좌의회귀양경일사도연",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250f10d980db259c736b1",
+      "webtoonId": 3000058497055,
+      "title": "레벨업에 미친 의사",
+      "author": "Village of Ambitious Birds/China Literature,JSCR,ZhiNiaoCun",
+      "url": "https://page.kakao.com/content/58497055",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=b0dat1/hzCtc2GrlF/pa0coopK4Dark22daYYLx1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["tue", "thu", "sun"],
+      "fanCount": 586,
+      "searchKeyword": "레벨업에미친의사villageofambitiousbirdschinaliteraturejscrzhiniaocun",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250f10d980db259c736b7",
+      "webtoonId": 3000059902182,
+      "title": "리셋팅 레이디",
+      "author": "백우,태공(Terapin),차서진",
+      "url": "https://page.kakao.com/content/59902182",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=oJrJX/hzKkXo6f2K/ONktWLZJ66BtcsTdE68Dck&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["tue"],
+      "fanCount": 499,
+      "searchKeyword": "리셋팅레이디백우태공terapin차서진",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["over15"]
+      }
+    },
+    {
+      "_id": "638250f10d980db259c736c7",
+      "webtoonId": 3000058643240,
+      "title": "상사가 나를 덕질한다",
+      "author": "이슬",
+      "url": "https://page.kakao.com/content/58643240",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=dxVv0r/hyZIbfrUgg/dvu32MGb4Y8oyQ6UHVttUk&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["tue"],
+      "fanCount": 498,
+      "searchKeyword": "상사가나를덕질한다이슬",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250f10d980db259c736bd",
+      "webtoonId": 3000057714526,
+      "title": "맛볼 수 없는 남자",
+      "author": "이후추",
+      "url": "https://page.kakao.com/content/57714526",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=94TLv/hzHNEZTRGN/Lah7X267in8PQwSGF25v00&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["tue"],
+      "fanCount": 444,
+      "searchKeyword": "맛볼수없는남자이후추",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree", "over15"]
+      }
+    },
+    {
+      "_id": "638250f00d980db259c736a5",
+      "webtoonId": 3000059785910,
+      "title": "열애 수업",
+      "author": "펀치,김영한",
+      "url": "https://page.kakao.com/content/59785910",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=w0FkI/hyoXAIE0n8/PVgvUKRmEI5jvc4iqIHtMK&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["tue"],
+      "fanCount": 394,
+      "searchKeyword": "열애수업펀치김영한",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree", "over15"]
+      }
+    },
+    {
+      "_id": "638250f10d980db259c736c5",
+      "webtoonId": 3000059829512,
+      "title": "후회 광공의 여동생이 되었다",
+      "author": "HI,데빈,퍼플레몬",
+      "url": "https://page.kakao.com/content/59829512",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=8omWo/hyzTZyvwKs/z1L3Nolz4sLpykmqe1fQm0&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["tue"],
+      "fanCount": 381,
+      "searchKeyword": "후회광공의여동생이되었다hi데빈퍼플레몬",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250f00d980db259c736ad",
+      "webtoonId": 3000060251820,
+      "title": "마법명가 막내아들",
+      "author": "신건우,비츄",
+      "url": "https://page.kakao.com/content/60251820",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=HzJaH/hyoXBgUioZ/6U4QwkLELoph7sg9Ki37Tk&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["tue"],
+      "fanCount": 354,
+      "searchKeyword": "마법명가막내아들신건우비츄",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250f00d980db259c7369f",
+      "webtoonId": 3000058434016,
+      "title": "병약한? 남편의 계약 아내",
+      "author": "지은설,연홍,세리안",
+      "url": "https://page.kakao.com/content/58434016",
+      "img": "//dn-img-page.kakao.com/download/resource?kid=vLTks/hzKkVZcCuI/d548Z1y0IvovlpQEfMsgE1&filename=th3",
+      "service": "kakaoPage",
+      "updateDays": ["tue"],
+      "fanCount": 349,
+      "searchKeyword": "병약한남편의계약아내지은설연홍세리안",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    }
+  ]
+}
