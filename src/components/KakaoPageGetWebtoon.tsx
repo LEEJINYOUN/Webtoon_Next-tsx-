@@ -9,7 +9,7 @@ import FriData from "../../public/fakeData/kakaoPage/fri1.json";
 import SatData from "../../public/fakeData/kakaoPage/sat1.json";
 import SunData from "../../public/fakeData/kakaoPage/sun1.json";
 
-type getDataType = {
+type GetDataType = {
   author: string;
   title: string;
   url: string;
@@ -53,45 +53,45 @@ export default function KakaoPageGetWebtoon() {
   const [todayDate, setTodayDate] = useState<string>(
     `${week[current.getDay()]}`
   );
-  const [kakaoPageGetdata, setKakaoPageGetdata] = useState<getDataType[]>([]);
+  const [kakaoPageGetData, setKakaoPageGetData] = useState<GetDataType[]>([]);
   const dateChange = (selected: string) => {
     setTodayDate(selected);
     if (selected === "mon") {
-      setKakaoPageGetdata(MonData.webtoons);
+      setKakaoPageGetData(MonData.webtoons);
     } else if (selected === "tue") {
-      setKakaoPageGetdata(TueData.webtoons);
+      setKakaoPageGetData(TueData.webtoons);
     } else if (selected === "wed") {
-      setKakaoPageGetdata(WedData.webtoons);
+      setKakaoPageGetData(WedData.webtoons);
     } else if (selected === "thu") {
-      setKakaoPageGetdata(ThuData.webtoons);
+      setKakaoPageGetData(ThuData.webtoons);
     } else if (selected === "fri") {
-      setKakaoPageGetdata(FriData.webtoons);
+      setKakaoPageGetData(FriData.webtoons);
     } else if (selected === "sat") {
-      setKakaoPageGetdata(SatData.webtoons);
+      setKakaoPageGetData(SatData.webtoons);
     } else if (selected === "sun") {
-      setKakaoPageGetdata(SunData.webtoons);
+      setKakaoPageGetData(SunData.webtoons);
     }
   };
 
   useEffect(() => {
     if (todayDate === "mon") {
-      setKakaoPageGetdata(MonData.webtoons);
+      setKakaoPageGetData(MonData.webtoons);
     } else if (todayDate === "tue") {
-      setKakaoPageGetdata(TueData.webtoons);
+      setKakaoPageGetData(TueData.webtoons);
     } else if (todayDate === "wed") {
-      setKakaoPageGetdata(WedData.webtoons);
+      setKakaoPageGetData(WedData.webtoons);
     } else if (todayDate === "thu") {
-      setKakaoPageGetdata(ThuData.webtoons);
+      setKakaoPageGetData(ThuData.webtoons);
     } else if (todayDate === "fri") {
-      setKakaoPageGetdata(FriData.webtoons);
+      setKakaoPageGetData(FriData.webtoons);
     } else if (todayDate === "sat") {
-      setKakaoPageGetdata(SatData.webtoons);
+      setKakaoPageGetData(SatData.webtoons);
     } else if (todayDate === "sun") {
-      setKakaoPageGetdata(SunData.webtoons);
+      setKakaoPageGetData(SunData.webtoons);
     }
   }, [todayDate]);
   return (
-    <div>
+    <>
       <div className="mb-3 border-b-2 border-gray-300/50">
         {DATE.map((item) => (
           <button
@@ -108,8 +108,11 @@ export default function KakaoPageGetWebtoon() {
         ))}
       </div>
       <div className="grid 2xl:grid-cols-5 xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-5">
-        {kakaoPageGetdata.map((card, key) => (
-          <div className="shadow-lg rounded-lg" key={key}>
+        {kakaoPageGetData.map((card, key) => (
+          <div
+            className="shadow-lg rounded-lg h-[450px] lg:h-[350px]"
+            key={key}
+          >
             <div className="w-full h-[80%] md:h-[70%]">
               <img
                 className=" rounded-t-lg w-full h-full cursor-pointer"
@@ -135,6 +138,6 @@ export default function KakaoPageGetWebtoon() {
           </div>
         ))}
       </div>
-    </div>
+    </>
   );
 }
