@@ -1,0 +1,391 @@
+{
+  "lastUpdate": null,
+  "totalWebtoonCount": 6615,
+  "naverWebtoonCount": 2196,
+  "kakaoWebtoonCount": 1910,
+  "kakaoPageWebtoonCount": 2509,
+  "updatedWebtoonCount": 0,
+  "createdWebtoonCount": 0,
+  "webtoons": [
+    {
+      "_id": "638250d10d980db259c729de",
+      "webtoonId": 2000000002442,
+      "title": "엔젤릭 레이디",
+      "author": ",마루코믹스",
+      "url": "https://webtoon.kakao.com/content/엔젤릭-레이디/2442",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2442/c1/2x/70183021-5c70-469f-b2e9-604e0bed4444.png",
+      "service": "kakao",
+      "updateDays": ["tue"],
+      "fanCount": 17,
+      "searchKeyword": "엔젤릭레이디마루코믹스",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250d20d980db259c729fc",
+      "webtoonId": 2000000002466,
+      "title": "록사나 : 여주인공의 오빠를 지키는 방법",
+      "author": "여름빛",
+      "url": "https://webtoon.kakao.com/content/록사나-여주인공의-오빠를-지키는-방법/2466",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2466/c1/2x/a112b092-a2a2-4678-a67c-0efbeb2f4817.png",
+      "service": "kakao",
+      "updateDays": ["tue"],
+      "fanCount": 14,
+      "searchKeyword": "록사나여주인공의오빠를지키는방법여름빛",
+      "additional": {
+        "new": false,
+        "rest": true,
+        "up": false,
+        "adult": true,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d20d980db259c729f8",
+      "webtoonId": 2000000002451,
+      "title": "더 이상 사랑하지 않는다",
+      "author": "수수",
+      "url": "https://webtoon.kakao.com/content/더-이상-사랑하지-않는다/2451",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2451/c1/2x/e98dac66-bf01-4136-ab53-747a4eae3fee.png",
+      "service": "kakao",
+      "updateDays": ["tue"],
+      "fanCount": 13,
+      "searchKeyword": "더이상사랑하지않는다수수",
+      "additional": {
+        "new": false,
+        "rest": true,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d10d980db259c729d4",
+      "webtoonId": 2000000002410,
+      "title": "학사귀환",
+      "author": ",외솔",
+      "url": "https://webtoon.kakao.com/content/학사귀환/2410",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2410/c1/2x/7cc4d725-cb23-41dd-9271-c7d5b19bd9a7.png",
+      "service": "kakao",
+      "updateDays": ["tue"],
+      "fanCount": 11,
+      "searchKeyword": "학사귀환외솔",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d10d980db259c729dc",
+      "webtoonId": 2000000002902,
+      "title": "집착 서브 남주를 키웠습니다",
+      "author": "린우,TK",
+      "url": "https://webtoon.kakao.com/content/집착-서브-남주를-키웠습니다/2902",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2902/c1/2x/c2a87b97-bcf1-4475-a786-25b51c2aaa4a.png",
+      "service": "kakao",
+      "updateDays": ["tue"],
+      "fanCount": 10,
+      "searchKeyword": "집착서브남주를키웠습니다린우tk",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d20d980db259c729ea",
+      "webtoonId": 2000000002587,
+      "title": "미운 노새 이야기",
+      "author": ",Cacti",
+      "url": "https://webtoon.kakao.com/content/미운-노새-이야기/2587",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2587/c1/2x/542ca86a-5ef3-4f4a-8343-3d9e58ef78fd.png",
+      "service": "kakao",
+      "updateDays": ["tue"],
+      "fanCount": 10,
+      "searchKeyword": "미운노새이야기cacti",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250d20d980db259c729fe",
+      "webtoonId": 2000000002963,
+      "title": "악녀 시어머니를 그만뒀더니, 다들 내게 집착한다",
+      "author": "소망",
+      "url": "https://webtoon.kakao.com/content/악녀-시어머니를-그만뒀더니-다들-내게-집착한다/2963",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2963/c1/2x/65689801-3259-4a8b-aa63-1ed891e4e212.png",
+      "service": "kakao",
+      "updateDays": ["tue"],
+      "fanCount": 10,
+      "searchKeyword": "악녀시어머니를그만뒀더니다들내게집착한다소망",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d20d980db259c729e0",
+      "webtoonId": 2000000002941,
+      "title": "이번 생은 조연으로 살겠습니다",
+      "author": "양념갈비,효조",
+      "url": "https://webtoon.kakao.com/content/이번-생은-조연으로-살겠습니다/2941",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2941/c1/2x/cefbfd10-4eba-4f54-9c32-ccdf64f75c7f.png",
+      "service": "kakao",
+      "updateDays": ["tue"],
+      "fanCount": 8,
+      "searchKeyword": "이번생은조연으로살겠습니다양념갈비효조",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250d10d980db259c729d6",
+      "webtoonId": 2000000002821,
+      "title": "이 용사 실화냐",
+      "author": "빠용",
+      "url": "https://webtoon.kakao.com/content/이-용사-실화냐/2821",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2821/c1/2x/dbeb80e5-ff89-4e01-997e-622eeb0e093a.png",
+      "service": "kakao",
+      "updateDays": ["tue"],
+      "fanCount": 6,
+      "searchKeyword": "이용사실화냐빠용",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d20d980db259c729e4",
+      "webtoonId": 2000000002810,
+      "title": "그것들, 내 인생에서 삭제합니다",
+      "author": "미나,소르베",
+      "url": "https://webtoon.kakao.com/content/그것들-내-인생에서-삭제합니다/2810",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2810/c1/2x/6ccd82c4-ba7d-4930-9045-71ae98f10d13.png",
+      "service": "kakao",
+      "updateDays": ["tue"],
+      "fanCount": 6,
+      "searchKeyword": "그것들내인생에서삭제합니다미나소르베",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d20d980db259c729ee",
+      "webtoonId": 2000000002686,
+      "title": "흑막의 목줄을 놓쳐버렸다",
+      "author": "J00",
+      "url": "https://webtoon.kakao.com/content/흑막의-목줄을-놓쳐버렸다/2686",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2686/c1/2x/214a7cb2-8dcb-4cf3-83da-92df84562e26.png",
+      "service": "kakao",
+      "updateDays": ["tue"],
+      "fanCount": 6,
+      "searchKeyword": "흑막의목줄을놓쳐버렸다j00",
+      "additional": {
+        "new": false,
+        "rest": true,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d20d980db259c729e6",
+      "webtoonId": 2000000002507,
+      "title": "라지에르의 서",
+      "author": "김준형,시루",
+      "url": "https://webtoon.kakao.com/content/라지에르의-서/2507",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2507/c1/2x/62bcba55-ef31-4290-a9db-3c3cef4aea2d.png",
+      "service": "kakao",
+      "updateDays": ["tue"],
+      "fanCount": 5,
+      "searchKeyword": "라지에르의서김준형시루",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d20d980db259c729fa",
+      "webtoonId": 2000000002667,
+      "title": "우아한 야만의 바다",
+      "author": "틸다킴,MINIM",
+      "url": "https://webtoon.kakao.com/content/우아한-야만의-바다/2667",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2667/c1/2x/4825c7a1-76cc-4e21-9015-312b459dc092.png",
+      "service": "kakao",
+      "updateDays": ["tue"],
+      "fanCount": 5,
+      "searchKeyword": "우아한야만의바다틸다킴minim",
+      "additional": {
+        "new": false,
+        "rest": true,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d20d980db259c72a00",
+      "webtoonId": 2000000002854,
+      "title": "슈공녀",
+      "author": ",해시",
+      "url": "https://webtoon.kakao.com/content/슈공녀/2854",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2854/c1/2x/909d7e58-827f-44a8-864a-54192f7ef4ac.png",
+      "service": "kakao",
+      "updateDays": ["tue"],
+      "fanCount": 5,
+      "searchKeyword": "슈공녀해시",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree", "over15"]
+      }
+    },
+    {
+      "_id": "638250d20d980db259c72a02",
+      "webtoonId": 2000000003001,
+      "title": "충직한 검이 되려 했는데",
+      "author": "섬다,ilye",
+      "url": "https://webtoon.kakao.com/content/충직한-검이-되려-했는데/3001",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/3001/c1/2x/dcd4333f-b738-4a17-ba04-54f5ba993402.png",
+      "service": "kakao",
+      "updateDays": ["tue"],
+      "fanCount": 5,
+      "searchKeyword": "충직한검이되려했는데섬다ilye",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d20d980db259c729e8",
+      "webtoonId": 2000000002700,
+      "title": "나의 자리",
+      "author": "가은(각색),5후",
+      "url": "https://webtoon.kakao.com/content/나의-자리/2700",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2700/c1/2x/c57f154e-cd77-480e-bc3d-1bf0c002f99e.png",
+      "service": "kakao",
+      "updateDays": ["tue"],
+      "fanCount": 4,
+      "searchKeyword": "나의자리가은각색5후",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree", "over15"]
+      }
+    },
+    {
+      "_id": "638250d10d980db259c729da",
+      "webtoonId": 2000000002896,
+      "title": "디어 마이 프렌드",
+      "author": "나종민,권하나",
+      "url": "https://webtoon.kakao.com/content/디어-마이-프렌드/2896",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2896/c1/2x/2bd48eba-dc5b-4110-afd2-d8c77e08fc9e.png",
+      "service": "kakao",
+      "updateDays": ["tue"],
+      "fanCount": 3,
+      "searchKeyword": "디어마이프렌드나종민권하나",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d20d980db259c729f6",
+      "webtoonId": 2000000002930,
+      "title": "가르쳐주세요, 선배",
+      "author": "희희",
+      "url": "https://webtoon.kakao.com/content/가르쳐주세요-선배/2930",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2930/c1/2x/fda663d2-ab8d-4af0-a519-0fc449df2347.png",
+      "service": "kakao",
+      "updateDays": ["tue"],
+      "fanCount": 3,
+      "searchKeyword": "가르쳐주세요선배희희",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree", "over15"]
+      }
+    },
+    {
+      "_id": "638250d20d980db259c729f2",
+      "webtoonId": 2000000002993,
+      "title": "남주는 내가 차지한다",
+      "author": "RIYO",
+      "url": "https://webtoon.kakao.com/content/남주는-내가-차지한다/2993",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2993/c1/2x/5568ee5f-3cf9-4a34-ac62-fe00858c4db4.png",
+      "service": "kakao",
+      "updateDays": ["tue"],
+      "fanCount": 1,
+      "searchKeyword": "남주는내가차지한다riyo",
+      "additional": {
+        "new": false,
+        "rest": true,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d20d980db259c729f4",
+      "webtoonId": 2000000003032,
+      "title": "스폰테 데이",
+      "author": "잭라빈,스푼코믹스",
+      "url": "https://webtoon.kakao.com/content/스폰테-데이/3032",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/3032/c1/2x/712c3618-a673-47fa-8131-256d5e675072.png",
+      "service": "kakao",
+      "updateDays": ["tue"],
+      "fanCount": null,
+      "searchKeyword": "스폰테데이잭라빈스푼코믹스",
+      "additional": {
+        "new": false,
+        "rest": true,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    }
+  ]
+}

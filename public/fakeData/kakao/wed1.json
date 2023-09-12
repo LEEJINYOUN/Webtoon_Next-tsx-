@@ -1,0 +1,391 @@
+{
+  "lastUpdate": null,
+  "totalWebtoonCount": 6615,
+  "naverWebtoonCount": 2196,
+  "kakaoWebtoonCount": 1910,
+  "kakaoPageWebtoonCount": 2509,
+  "updatedWebtoonCount": 0,
+  "createdWebtoonCount": 0,
+  "webtoons": [
+    {
+      "_id": "638250d30d980db259c72a68",
+      "webtoonId": 2000000002519,
+      "title": "태양의 주인",
+      "author": "KONN,송이",
+      "url": "https://webtoon.kakao.com/content/태양의-주인/2519",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2519/c1/2x/2bab853c-22ec-4dab-8d31-829a3a7004f0.png",
+      "service": "kakao",
+      "updateDays": ["wed"],
+      "fanCount": 34,
+      "searchKeyword": "태양의주인konn송이",
+      "additional": {
+        "new": false,
+        "rest": true,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree", "over15"]
+      }
+    },
+    {
+      "_id": "638250d30d980db259c72a5e",
+      "webtoonId": 2000000002830,
+      "title": "내 남자 주인공의 아내가 되었다",
+      "author": "푸릭,적발",
+      "url": "https://webtoon.kakao.com/content/내-남자-주인공의-아내가-되었다/2830",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2830/c1/2x/3daaf5bf-a611-4273-a299-8ead3f60d289.png",
+      "service": "kakao",
+      "updateDays": ["wed"],
+      "fanCount": 30,
+      "searchKeyword": "내남자주인공의아내가되었다푸릭적발",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d20d980db259c72a52",
+      "webtoonId": 2000000002396,
+      "title": "정령왕의 딸",
+      "author": "구름빛(COPIN),꿀차(COPIN)",
+      "url": "https://webtoon.kakao.com/content/정령왕의-딸/2396",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2396/c1/2x/bc429793-ed95-425c-ae2b-5a07244ece48.png",
+      "service": "kakao",
+      "updateDays": ["wed"],
+      "fanCount": 13,
+      "searchKeyword": "정령왕의딸구름빛copin꿀차copin",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d30d980db259c72a6a",
+      "webtoonId": 2000000002526,
+      "title": "아 하세요, 금수저 들어갑니다",
+      "author": "신유성",
+      "url": "https://webtoon.kakao.com/content/아-하세요-금수저-들어갑니다/2526",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2526/c1/2x/70bb63aa-5737-4d7c-bb00-5de415af35bc.png",
+      "service": "kakao",
+      "updateDays": ["wed"],
+      "fanCount": 13,
+      "searchKeyword": "아하세요금수저들어갑니다신유성",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d30d980db259c72a72",
+      "webtoonId": 2000000002752,
+      "title": "재능 삼킨 마법사",
+      "author": "영근(스토리플러스),DJ공룡",
+      "url": "https://webtoon.kakao.com/content/재능-삼킨-마법사/2752",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2752/c1/2x/5f0908c4-3f4f-4228-ab23-e805a971e413.png",
+      "service": "kakao",
+      "updateDays": ["wed"],
+      "fanCount": 10,
+      "searchKeyword": "재능삼킨마법사영근스토리플러스dj공룡",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d20d980db259c72a4e",
+      "webtoonId": 2000000002496,
+      "title": "낭선기환담",
+      "author": "김순태",
+      "url": "https://webtoon.kakao.com/content/낭선기환담/2496",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2496/c1/2x/8421aade-b0a6-4a71-9557-272224d586e9.png",
+      "service": "kakao",
+      "updateDays": ["wed"],
+      "fanCount": 8,
+      "searchKeyword": "낭선기환담김순태",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d20d980db259c72a50",
+      "webtoonId": 2000000002578,
+      "title": "두 얼굴의 황녀 ",
+      "author": "류주연,토리",
+      "url": "https://webtoon.kakao.com/content/두-얼굴의-황녀/2578",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2578/c1/2x/83a25dc8-f7ba-4532-8dd9-97f8ca5cbd7c.png",
+      "service": "kakao",
+      "updateDays": ["wed"],
+      "fanCount": 8,
+      "searchKeyword": "두얼굴의황녀류주연토리",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d30d980db259c72a54",
+      "webtoonId": 2000000002907,
+      "title": "공녀님의 위험한 오빠들",
+      "author": "기렴",
+      "url": "https://webtoon.kakao.com/content/공녀님의-위험한-오빠들/2907",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2907/c1/2x/aab10425-4d85-4164-bb0e-3d18cf28f2d5.png",
+      "service": "kakao",
+      "updateDays": ["wed"],
+      "fanCount": 8,
+      "searchKeyword": "공녀님의위험한오빠들기렴",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d30d980db259c72a62",
+      "webtoonId": 2000000002403,
+      "title": "목표는 금수저로 무병장수하기입니다",
+      "author": "요슈아,우주해파리",
+      "url": "https://webtoon.kakao.com/content/목표는-금수저로-무병장수하기입니다/2403",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2403/c1/2x/af0c79d6-c3d3-4877-8521-fbc4d7653e6d.png",
+      "service": "kakao",
+      "updateDays": ["wed"],
+      "fanCount": 8,
+      "searchKeyword": "목표는금수저로무병장수하기입니다요슈아우주해파리",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d20d980db259c72a4a",
+      "webtoonId": 2000000002964,
+      "title": "내 딸은 최종 보스",
+      "author": "RK STUDIO",
+      "url": "https://webtoon.kakao.com/content/내-딸은-최종-보스/2964",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2964/c1/2x/d78d9b1d-a026-4e91-9c78-7dc72e04de51.png",
+      "service": "kakao",
+      "updateDays": ["wed"],
+      "fanCount": 7,
+      "searchKeyword": "내딸은최종보스rkstudio",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d20d980db259c72a44",
+      "webtoonId": 2000000002339,
+      "title": "나는 될놈이다",
+      "author": "서윤교",
+      "url": "https://webtoon.kakao.com/content/나는-될놈이다/2339",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2339/c1/2x/9cd318eb-5e1e-438a-b9e4-474170358fca.png",
+      "service": "kakao",
+      "updateDays": ["wed"],
+      "fanCount": 6,
+      "searchKeyword": "나는될놈이다서윤교",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d30d980db259c72a60",
+      "webtoonId": 2000000002977,
+      "title": "상냥한 남자주인공의 가면을 벗기면",
+      "author": "열하,안토",
+      "url": "https://webtoon.kakao.com/content/상냥한-남자주인공의-가면을-벗기면/2977",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2977/c1/2x/f7d517e8-3e9a-4e34-bbd4-2e8d7844cb5a.png",
+      "service": "kakao",
+      "updateDays": ["wed"],
+      "fanCount": 6,
+      "searchKeyword": "상냥한남자주인공의가면을벗기면열하안토",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d30d980db259c72a6e",
+      "webtoonId": 2000000002518,
+      "title": "성좌들이 나만 좋아해",
+      "author": ",슈퍼코믹스스튜디오",
+      "url": "https://webtoon.kakao.com/content/성좌들이-나만-좋아해/2518",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2518/c1/2x/b4f7c205-bddd-465b-99be-dce5c3d04c09.png",
+      "service": "kakao",
+      "updateDays": ["wed"],
+      "fanCount": 6,
+      "searchKeyword": "성좌들이나만좋아해슈퍼코믹스스튜디오",
+      "additional": {
+        "new": false,
+        "rest": true,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree", "over15"]
+      }
+    },
+    {
+      "_id": "638250d30d980db259c72a70",
+      "webtoonId": 2000000002513,
+      "title": "영주님의 코인이 줄지 않음?!",
+      "author": "홍대의,트루베르",
+      "url": "https://webtoon.kakao.com/content/영주님의-코인이-줄지-않음/2513",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2513/c1/2x/2a6c2cc3-7842-414a-bbec-69344baed0e3.png",
+      "service": "kakao",
+      "updateDays": ["wed"],
+      "fanCount": 6,
+      "searchKeyword": "영주님의코인이줄지않음홍대의트루베르",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d20d980db259c72a42",
+      "webtoonId": 2000000002994,
+      "title": "황녀, 미친 꽃으로 피어나다",
+      "author": "황만주,문토",
+      "url": "https://webtoon.kakao.com/content/황녀-미친-꽃으로-피어나다/2994",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2994/c1/2x/ac04ab7e-a97e-4c91-a209-3552f79e2853.png",
+      "service": "kakao",
+      "updateDays": ["wed"],
+      "fanCount": 5,
+      "searchKeyword": "황녀미친꽃으로피어나다황만주문토",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d20d980db259c72a48",
+      "webtoonId": 2000000002412,
+      "title": "나 혼자 천재 DNA",
+      "author": "지운성",
+      "url": "https://webtoon.kakao.com/content/나-혼자-천재-DNA/2412",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2412/c1/2x/f91fc691-0b22-4ce2-8b58-7a07d1759020.png",
+      "service": "kakao",
+      "updateDays": ["wed"],
+      "fanCount": 5,
+      "searchKeyword": "나혼자천재dna지운성",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d30d980db259c72a64",
+      "webtoonId": 2000000002652,
+      "title": "1년차 만렙 매니저",
+      "author": "무타",
+      "url": "https://webtoon.kakao.com/content/1년차-만렙-매니저/2652",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2652/c1/2x/067ce761-9ffc-4e3b-a358-037f295e844b.png",
+      "service": "kakao",
+      "updateDays": ["wed"],
+      "fanCount": 4,
+      "searchKeyword": "1년차만렙매니저무타",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d30d980db259c72a66",
+      "webtoonId": 2000000002590,
+      "title": "쇼윈도의 품격",
+      "author": "꽃제이,다가비",
+      "url": "https://webtoon.kakao.com/content/쇼윈도의-품격/2590",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2590/c1/2x/02a32458-ef78-4aba-8e48-f6c62aef233a.png",
+      "service": "kakao",
+      "updateDays": ["wed"],
+      "fanCount": 2,
+      "searchKeyword": "쇼윈도의품격꽃제이다가비",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree", "over15"]
+      }
+    },
+    {
+      "_id": "638250d30d980db259c72a5c",
+      "webtoonId": 2000000002857,
+      "title": "폭군 천제님께 간택되기 싫었습니다만",
+      "author": "IIAKI,라쿤",
+      "url": "https://webtoon.kakao.com/content/폭군-천제님께-간택되기-싫었습니다만/2857",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2857/c1/2x/d3254f28-41be-40cf-9d68-45219ac8f969.png",
+      "service": "kakao",
+      "updateDays": ["wed"],
+      "fanCount": 1,
+      "searchKeyword": "폭군천제님께간택되기싫었습니다만iiaki라쿤",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d30d980db259c72a74",
+      "webtoonId": 2000000002728,
+      "title": "내일의 으뜸",
+      "author": "둥둥",
+      "url": "https://webtoon.kakao.com/content/내일의-으뜸/2728",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2728/c1/2x/e748ba05-534d-4528-955c-fe0869661f0a.png",
+      "service": "kakao",
+      "updateDays": ["wed"],
+      "fanCount": 1,
+      "searchKeyword": "내일의으뜸둥둥",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    }
+  ]
+}

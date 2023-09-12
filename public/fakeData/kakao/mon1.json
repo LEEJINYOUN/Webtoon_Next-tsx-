@@ -1,0 +1,391 @@
+{
+  "lastUpdate": null,
+  "totalWebtoonCount": 6615,
+  "naverWebtoonCount": 2196,
+  "kakaoWebtoonCount": 1910,
+  "kakaoPageWebtoonCount": 2509,
+  "updatedWebtoonCount": 0,
+  "createdWebtoonCount": 0,
+  "webtoons": [
+    {
+      "_id": "638250d10d980db259c7299c",
+      "webtoonId": 2000000002385,
+      "title": "4000년 만에 귀환한 대마도사",
+      "author": "따개비,김덕용(REDICE STUDIO)",
+      "url": "https://webtoon.kakao.com/content/4000년-만에-귀환한-대마도사/2385",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2385/c1/2x/e994f233-075b-4d97-8b85-5029d2f51f4a.png",
+      "service": "kakao",
+      "updateDays": ["mon"],
+      "fanCount": 49,
+      "searchKeyword": "4000년만에귀환한대마도사따개비김덕용redicestudio",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree", "over15"]
+      }
+    },
+    {
+      "_id": "638250d10d980db259c7299e",
+      "webtoonId": 2000000002434,
+      "title": "녹음의 관",
+      "author": "삵,비누",
+      "url": "https://webtoon.kakao.com/content/녹음의-관/2434",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2434/c1/2x/2343ee1a-bfb7-480e-b9b4-3cf068e954c2.png",
+      "service": "kakao",
+      "updateDays": ["mon"],
+      "fanCount": 40,
+      "searchKeyword": "녹음의관삵비누",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d10d980db259c72996",
+      "webtoonId": 2000000002862,
+      "title": "후궁계약",
+      "author": "밥꾹,붉은마녀",
+      "url": "https://webtoon.kakao.com/content/후궁계약/2862",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2862/c1/2x/d04fe6b6-ec6d-465f-b493-791463f749c0.png",
+      "service": "kakao",
+      "updateDays": ["mon"],
+      "fanCount": 19,
+      "searchKeyword": "후궁계약밥꾹붉은마녀",
+      "additional": {
+        "new": false,
+        "rest": true,
+        "up": false,
+        "adult": false,
+        "singularityList": ["over15"]
+      }
+    },
+    {
+      "_id": "638250d10d980db259c72988",
+      "webtoonId": 2000000002381,
+      "title": "망할 가문을 살려보겠습니다",
+      "author": "무늬랑,NU",
+      "url": "https://webtoon.kakao.com/content/망할-가문을-살려보겠습니다/2381",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2381/c1/2x/9816d1da-b6cc-4ba5-85f0-7a8c97eec1d2.png",
+      "service": "kakao",
+      "updateDays": ["mon"],
+      "fanCount": 18,
+      "searchKeyword": "망할가문을살려보겠습니다무늬랑nu",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": []
+      }
+    },
+    {
+      "_id": "638250d10d980db259c72994",
+      "webtoonId": 2000000002769,
+      "title": "남주를 주웠더니 남편이 생겨버렸다",
+      "author": "마리씨,서촌",
+      "url": "https://webtoon.kakao.com/content/남주를-주웠더니-남편이-생겨버렸다/2769",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2769/c1/2x/03b28570-3572-400c-be8b-dc1324ddf552.png",
+      "service": "kakao",
+      "updateDays": ["mon"],
+      "fanCount": 17,
+      "searchKeyword": "남주를주웠더니남편이생겨버렸다마리씨서촌",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d10d980db259c7299a",
+      "webtoonId": 2000000002489,
+      "title": "무협지 최고 악당의 귀한 딸입니다",
+      "author": "다우,쌀국수",
+      "url": "https://webtoon.kakao.com/content/무협지-최고-악당의-귀한-딸입니다/2489",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2489/c1/2x/3f2e8f0f-36ac-4a1a-9156-e512101e71e0.png",
+      "service": "kakao",
+      "updateDays": ["mon"],
+      "fanCount": 17,
+      "searchKeyword": "무협지최고악당의귀한딸입니다다우쌀국수",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d10d980db259c72972",
+      "webtoonId": 2000000002528,
+      "title": "더 라이브",
+      "author": "앤트스튜디오",
+      "url": "https://webtoon.kakao.com/content/더-라이브/2528",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2528/c1/2x/47e43700-f7b5-45b5-b804-2ed905f1ab6a.png",
+      "service": "kakao",
+      "updateDays": ["mon"],
+      "fanCount": 16,
+      "searchKeyword": "더라이브앤트스튜디오",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d10d980db259c7298a",
+      "webtoonId": 2000000002649,
+      "title": "우선 남동생부터 숨기자",
+      "author": "자목,천리",
+      "url": "https://webtoon.kakao.com/content/우선-남동생부터-숨기자/2649",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2649/c1/2x/b104483b-e7a6-4bf2-a38d-41317ed017b0.png",
+      "service": "kakao",
+      "updateDays": ["mon"],
+      "fanCount": 11,
+      "searchKeyword": "우선남동생부터숨기자자목천리",
+      "additional": {
+        "new": false,
+        "rest": true,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d10d980db259c72986",
+      "webtoonId": 2000000002509,
+      "title": "정령의 펜던트",
+      "author": ",빅피",
+      "url": "https://webtoon.kakao.com/content/정령의-펜던트/2509",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2509/c1/2x/37f27eed-6eea-4f39-99fd-5351bf5b91de.png",
+      "service": "kakao",
+      "updateDays": ["mon"],
+      "fanCount": 8,
+      "searchKeyword": "정령의펜던트빅피",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d10d980db259c7297a",
+      "webtoonId": 2000000002630,
+      "title": "오늘부터 황녀?!",
+      "author": ",HAMPIG",
+      "url": "https://webtoon.kakao.com/content/오늘부터-황녀/2630",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2630/c1/2x/9d481a72-40dd-40b3-8df9-5af02182584a.png",
+      "service": "kakao",
+      "updateDays": ["mon"],
+      "fanCount": 7,
+      "searchKeyword": "오늘부터황녀hampig",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree", "over15"]
+      }
+    },
+    {
+      "_id": "638250d10d980db259c7297e",
+      "webtoonId": 2000000002888,
+      "title": "다시 한번 아이돌",
+      "author": "해량,메이 스튜디오",
+      "url": "https://webtoon.kakao.com/content/다시-한번-아이돌/2888",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2888/c1/2x/fdea3ed5-68ed-4883-9208-b00cb9409628.png",
+      "service": "kakao",
+      "updateDays": ["mon"],
+      "fanCount": 7,
+      "searchKeyword": "다시한번아이돌해량메이스튜디오",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d10d980db259c72976",
+      "webtoonId": 2000000002658,
+      "title": "책 먹는 마법사",
+      "author": ",크루 이스트우드",
+      "url": "https://webtoon.kakao.com/content/책-먹는-마법사/2658",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2658/c1/2x/46d64e3d-458b-4a99-87a7-a90136f85bdc.png",
+      "service": "kakao",
+      "updateDays": ["mon"],
+      "fanCount": 6,
+      "searchKeyword": "책먹는마법사크루이스트우드",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d10d980db259c7297c",
+      "webtoonId": 2000000002818,
+      "title": "폐하가 하필 짐승이라서",
+      "author": "Genie,김노을",
+      "url": "https://webtoon.kakao.com/content/폐하가-하필-짐승이라서/2818",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2818/c1/2x/07484a31-88a0-45f9-8fad-6e79b1179668.png",
+      "service": "kakao",
+      "updateDays": ["mon"],
+      "fanCount": 6,
+      "searchKeyword": "폐하가하필짐승이라서genie김노을",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d10d980db259c72978",
+      "webtoonId": 2000000002983,
+      "title": "빙의검신",
+      "author": "256",
+      "url": "https://webtoon.kakao.com/content/빙의검신/2983",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2983/c1/2x/3e14199e-792b-4983-a886-24019fc7a86d.png",
+      "service": "kakao",
+      "updateDays": ["mon"],
+      "fanCount": 5,
+      "searchKeyword": "빙의검신256",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d10d980db259c72974",
+      "webtoonId": 2000000002916,
+      "title": "나태한 소드마스터",
+      "author": "초록차,마루코믹스",
+      "url": "https://webtoon.kakao.com/content/나태한-소드마스터/2916",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2916/c1/2x/49dc676f-2962-4be0-85d1-41b20263ac81.png",
+      "service": "kakao",
+      "updateDays": ["mon"],
+      "fanCount": 4,
+      "searchKeyword": "나태한소드마스터초록차마루코믹스",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d10d980db259c7298e",
+      "webtoonId": 2000000002870,
+      "title": "70억분의 1의 이레귤러",
+      "author": "럭키나인,구자로",
+      "url": "https://webtoon.kakao.com/content/70억분의-1의-이레귤러/2870",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2870/c1/2x/f070b00b-a029-4130-8bb2-9c74c2d7f5be.png",
+      "service": "kakao",
+      "updateDays": ["mon"],
+      "fanCount": 4,
+      "searchKeyword": "70억분의1의이레귤러럭키나인구자로",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d10d980db259c72980",
+      "webtoonId": 2000000002622,
+      "title": "막장드라마의 제왕",
+      "author": ",아이라",
+      "url": "https://webtoon.kakao.com/content/막장드라마의-제왕/2622",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2622/c1/2x/7fe76f4b-1f28-4371-9965-7a8d2a479b2b.png",
+      "service": "kakao",
+      "updateDays": ["mon"],
+      "fanCount": 3,
+      "searchKeyword": "막장드라마의제왕아이라",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": true,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d10d980db259c7298c",
+      "webtoonId": 2000000002827,
+      "title": "천하제일 표사",
+      "author": "장담,류사",
+      "url": "https://webtoon.kakao.com/content/천하제일-표사/2827",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2827/c1/2x/d431e916-ae5f-4e1d-baf7-beea17df582e.png",
+      "service": "kakao",
+      "updateDays": ["mon"],
+      "fanCount": 2,
+      "searchKeyword": "천하제일표사장담류사",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d10d980db259c72984",
+      "webtoonId": 2000000002906,
+      "title": "데드맨31",
+      "author": "홍정훈,신월",
+      "url": "https://webtoon.kakao.com/content/데드맨31/2906",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/2906/c1/2x/263be380-1d01-4e49-b08e-d6ea9b5a982a.png",
+      "service": "kakao",
+      "updateDays": ["mon"],
+      "fanCount": 1,
+      "searchKeyword": "데드맨31홍정훈신월",
+      "additional": {
+        "new": false,
+        "rest": false,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    },
+    {
+      "_id": "638250d10d980db259c72992",
+      "webtoonId": 2000000003031,
+      "title": "부드러운 폭군",
+      "author": "루시,스푼코믹스",
+      "url": "https://webtoon.kakao.com/content/부드러운-폭군/3031",
+      "img": "https://kr-a.kakaopagecdn.com/P/C/3031/c1/2x/f1ef3300-05e8-4384-9924-5569732af0ff.png",
+      "service": "kakao",
+      "updateDays": ["mon"],
+      "fanCount": 1,
+      "searchKeyword": "부드러운폭군루시스푼코믹스",
+      "additional": {
+        "new": false,
+        "rest": true,
+        "up": false,
+        "adult": false,
+        "singularityList": ["waitFree"]
+      }
+    }
+  ]
+}
