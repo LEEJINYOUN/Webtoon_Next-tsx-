@@ -42,7 +42,10 @@ export default function HomeBanner() {
         </Link>
         <div className="grid 2xl:grid-cols-5 xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-5">
           {naverBanner.map((card, key) => (
-            <div className="shadow-lg rounded-lg" key={key}>
+            <div
+              className="shadow-lg rounded-lg h-[450px] lg:h-[350px]"
+              key={key}
+            >
               <div className="w-full h-[80%] md:h-[70%]">
                 <img
                   className=" rounded-t-lg w-full h-full cursor-pointer"
@@ -78,7 +81,10 @@ export default function HomeBanner() {
         </Link>
         <div className="grid 2xl:grid-cols-5 xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-5">
           {kakaoBanner.map((card, key) => (
-            <div className="shadow-lg rounded-lg" key={key}>
+            <div
+              className="shadow-lg rounded-lg h-[450px] lg:h-[350px]"
+              key={key}
+            >
               <div className="w-full h-[80%] md:h-[70%]">
                 <img
                   className=" rounded-t-lg w-full h-full cursor-pointer"
@@ -118,7 +124,10 @@ export default function HomeBanner() {
         </Link>
         <div className="grid 2xl:grid-cols-5 xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-5">
           {kakaoPageBanner.map((card, key) => (
-            <div className="shadow-lg rounded-lg" key={key}>
+            <div
+              className="shadow-lg rounded-lg h-[450px] lg:h-[350px]"
+              key={key}
+            >
               <div className="w-full h-[80%] md:h-[70%]">
                 <img
                   className=" rounded-t-lg w-full h-full cursor-pointer"
