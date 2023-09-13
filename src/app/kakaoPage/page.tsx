@@ -1,10 +1,10 @@
-import KakaoPageGetWebtoon from "@/components/KakaoPageGetWebtoon";
+import PageData from "@/components/PageData";
 import React from "react";
 
 export default function KakaoPage() {
   return (
     <>
-      <KakaoPageGetWebtoon />
+      <PageData page={"kakaoPage"} name={"카카오페이지"} />
     </>
   );
 }

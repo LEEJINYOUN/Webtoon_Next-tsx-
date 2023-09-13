@@ -10,3 +10,8 @@ export type BannerDataType = {
   name: string;
   linkHref: string;
 };
+
+export type PageDataType = {
+  page: string;
+  name: string;
+};

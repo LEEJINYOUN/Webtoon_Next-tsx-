@@ -1,10 +1,10 @@
 import React from "react";
-import NaverGetWebtoon from "@/components/NaverGetWebtoon";
+import PageData from "@/components/PageData";
 
 export default function Naver() {
   return (
     <>
-      <NaverGetWebtoon />
+      <PageData page={"naver"} name={"네이버"} />
     </>
   );
 }
