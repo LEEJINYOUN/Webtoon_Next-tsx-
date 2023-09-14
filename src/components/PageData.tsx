@@ -3,6 +3,7 @@
 import React, { useState } from "react";
 import { PageDataType } from "./TypeAlias";
 import { useQuery } from "@tanstack/react-query";
+import LoadingScreen from "./LoadingScreen";
 
 const DAY = [
   {
@@ -63,7 +64,7 @@ export default function PageData({ page, name }: PageDataType) {
     }
   };
 
-  const { data } = useQuery(["data", page, currentDay], async () => {
+  const { data, isLoading } = useQuery(["data", page, currentDay], async () => {
     const getData = await fetch(
       `${API_KEY}?perPage=20&page=1&service=${page}&updateDay=${currentDay}`
     ).then((response) => response.json());
@@ -87,6 +88,7 @@ export default function PageData({ page, name }: PageDataType) {
           </button>
         ))}
       </div>
+      {(isLoading || data === undefined) && <LoadingScreen />}
       <div className="grid 2xl:grid-cols-5 xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-5">
         {data &&
           data.webtoons.map((card: any, key: any) => (
