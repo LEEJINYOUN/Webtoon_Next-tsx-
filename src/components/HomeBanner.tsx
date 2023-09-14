@@ -3,6 +3,7 @@ import React from "react";
 import { useQueries } from "@tanstack/react-query";
 import BannerData from "./BannerData";
 import LoadingScreen from "./LoadingScreen";
+import ErrorScreen from "./ErrorScreen";
 
 const CURRENT = new Date();
 const WEEK = ["sun", "mon", "tue", "wed", "thu", "fri", "sat"];
@@ -45,6 +46,9 @@ export default function HomeBanner() {
 
   return (
     <>
+      {(bannerGetData[0].isError ||
+        bannerGetData[1].isError ||
+        bannerGetData[2].isError) && <ErrorScreen />}
       {(bannerGetData[0].isLoading ||
         bannerGetData[1].isLoading ||
         bannerGetData[2].isLoading ||
