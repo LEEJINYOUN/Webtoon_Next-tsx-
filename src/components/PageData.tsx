@@ -1,44 +1,12 @@
 /* eslint-disable @next/next/no-img-element */
 "use client";
 import React, { useState } from "react";
-import { PageDataType } from "./TypeAlias";
+import { PageDataType } from "../types/type";
 import { useQuery } from "@tanstack/react-query";
 import LoadingScreen from "./LoadingScreen";
 import ErrorScreen from "./ErrorScreen";
-
-const DAY = [
-  {
-    name: "월",
-    date: "mon",
-  },
-  {
-    name: "화",
-    date: "tue",
-  },
-  {
-    name: "수",
-    date: "wed",
-  },
-  {
-    name: "목",
-    date: "thu",
-  },
-  {
-    name: "금",
-    date: "fri",
-  },
-  {
-    name: "토",
-    date: "sat",
-  },
-  {
-    name: "일",
-    date: "sun",
-  },
-];
-const CURRENT = new Date();
-const WEEK = ["sun", "mon", "tue", "wed", "thu", "fri", "sat"];
-const API_KEY = process.env.NEXT_PUBLIC_API_KEY;
+import { API_KEY, CURRENT, DAY, WEEK } from "@/constants/constant";
+import { goToPage } from "@/hooks/hook";
 
 export default function PageData({ page, name }: PageDataType) {
   const [currentDay, setCurrentDay] = useState<string>(
@@ -49,20 +17,6 @@ export default function PageData({ page, name }: PageDataType) {
     await fetch(
       `${API_KEY}?perPage=20&page=1&service=${page}&updateDay=${selected}`
     ).then((response) => response.json());
-  };
-
-  const goToPage = (url: string, name: string) => {
-    const mobileUrl = url;
-    const computerUrl = url.substring(0, 8) + url.substring(10, url.length);
-    if (name === "네이버") {
-      if (window.innerWidth < 1100) {
-        window.location.href = mobileUrl;
-      } else {
-        window.location.href = computerUrl;
-      }
-    } else {
-      window.location.href = url;
-    }
   };
 
   const { data, isLoading, isError } = useQuery(
@@ -107,7 +61,7 @@ export default function PageData({ page, name }: PageDataType) {
                   src={card.img}
                   alt="card image"
                   onClick={() => {
-                    goToPage(card.url, name);
+                    goToPage({ url: card.url, name });
                   }}
                 />
               </div>
@@ -116,7 +70,7 @@ export default function PageData({ page, name }: PageDataType) {
                   <h3
                     className="pl-3 font-bold text-slate-700 truncate cursor-pointer"
                     onClick={() => {
-                      goToPage(card.url, name);
+                      goToPage({ url: card.url, name });
                     }}
                   >
                     {card.title}

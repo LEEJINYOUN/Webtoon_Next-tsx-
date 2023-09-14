@@ -1,22 +1,10 @@
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
 import Link from "next/link";
-import { BannerDataType } from "./TypeAlias";
+import { BannerDataType } from "../types/type";
+import { goToPage } from "@/hooks/hook";
 
 export default function BannerData({ data, name, linkHref }: BannerDataType) {
-  const goToPage = (url: string, name: string) => {
-    const mobileUrl = url;
-    const computerUrl = url.substring(0, 8) + url.substring(10, url.length);
-    if (name === "네이버") {
-      if (window.innerWidth < 1100) {
-        window.location.href = mobileUrl;
-      } else {
-        window.location.href = computerUrl;
-      }
-    } else {
-      window.location.href = url;
-    }
-  };
   return (
     <div className="container mx-auto pt-10">
       <Link href={linkHref}>
@@ -36,7 +24,7 @@ export default function BannerData({ data, name, linkHref }: BannerDataType) {
                 src={card.img}
                 alt="item image"
                 onClick={() => {
-                  goToPage(card.url, name);
+                  goToPage({ url: card.url, name });
                 }}
               />
             </div>
@@ -45,7 +33,7 @@ export default function BannerData({ data, name, linkHref }: BannerDataType) {
                 <h3
                   className="pl-3 text-xl font-bold text-slate-700 truncate cursor-pointer"
                   onClick={() => {
-                    goToPage(card.url, name);
+                    goToPage({ url: card.url, name });
                   }}
                 >
                   {card.title}

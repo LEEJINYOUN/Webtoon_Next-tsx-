@@ -11,6 +11,11 @@ export type BannerDataType = {
   linkHref: string;
 };
 
+export type GoToPageType = {
+  url: string;
+  name: string;
+};
+
 export type PageDataType = {
   page: string;
   name: string;

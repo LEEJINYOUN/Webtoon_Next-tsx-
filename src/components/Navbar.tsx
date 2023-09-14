@@ -4,21 +4,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { AiOutlineClose } from "react-icons/ai";
-
-const MENU = [
-  {
-    href: "/naver",
-    name: "네이버",
-  },
-  {
-    href: "/kakao",
-    name: "카카오",
-  },
-  {
-    href: "/kakaoPage",
-    name: "카카오페이지",
-  },
-];
+import { MENU } from "@/constants/constant";
 
 export default function Navbar() {
   const pathName = usePathname();
