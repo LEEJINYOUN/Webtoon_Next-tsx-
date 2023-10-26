@@ -1,4 +1,3 @@
-import React from "react";
 import PageData from "@/components/PageData";
 
 export default function Naver() {
