@@ -5,7 +5,7 @@ import { PageDataType } from "../types/type";
 import { useQuery } from "@tanstack/react-query";
 import LoadingScreen from "./LoadingScreen";
 import ErrorScreen from "./ErrorScreen";
-import { API_KEY, CURRENT, DAY, WEEK } from "@/constants/constant";
+import { API_KEY, CURRENT, DAY, WEEK } from "@/constants/FetchDataConstant";
 import { goToPage } from "@/hooks/hook";
 
 export default function PageData({ page, name }: PageDataType) {

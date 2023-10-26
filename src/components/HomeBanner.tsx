@@ -4,7 +4,7 @@ import { useQueries } from "@tanstack/react-query";
 import BannerData from "./BannerData";
 import LoadingScreen from "./LoadingScreen";
 import ErrorScreen from "./ErrorScreen";
-import { API_KEY, CURRENT, PAGE, WEEK } from "@/constants/constant";
+import { API_KEY, CURRENT, PAGE, WEEK } from "@/constants/FetchDataConstant";
 
 export default function HomeBanner() {
   const currentDay = WEEK[CURRENT.getDay()];

@@ -4,7 +4,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { AiOutlineClose } from "react-icons/ai";
-import { MENU } from "@/constants/constant";
+import { NAVBAR_MENU } from "@/constants/NavbarMenu";
 
 export default function Navbar() {
   const pathName = usePathname();
@@ -21,7 +21,7 @@ export default function Navbar() {
         </h2>
       </Link>
       <ul className="hidden md:flex gap-6">
-        {MENU.map((item) => (
+        {NAVBAR_MENU.map((item) => (
           <Link
             key={item.href}
             href={item.href}
@@ -51,7 +51,7 @@ export default function Navbar() {
         } transition-transform absolute top-0 left-0 w-full h-screen bg-zinc-800/80 flex flex-col justify-center items-center text-2xl`}
         onClick={() => setNavbar(false)}
       >
-        {MENU.map((item) => (
+        {NAVBAR_MENU.map((item) => (
           <Link
             key={item.href}
             href={item.href}
