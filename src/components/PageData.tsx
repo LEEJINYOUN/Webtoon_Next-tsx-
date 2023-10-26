@@ -1,6 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 "use client";
-import React, { useState } from "react";
+import { useState } from "react";
 import { PageDataType } from "../types/type";
 import { useQuery } from "@tanstack/react-query";
 import LoadingScreen from "./LoadingScreen";
@@ -22,10 +22,10 @@ export default function PageData({ page, name }: PageDataType) {
   const { data, isLoading, isError } = useQuery(
     ["data", page, currentDay],
     async () => {
-      const getData = await fetch(
+      const fetchData = await fetch(
         `${API_KEY}?perPage=20&page=1&service=${page}&updateDay=${currentDay}`
       ).then((response) => response.json());
-      return getData;
+      return fetchData;
     }
   );
 

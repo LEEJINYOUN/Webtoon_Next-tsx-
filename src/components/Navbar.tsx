@@ -1,5 +1,5 @@
 "use client";
-import React, { useState } from "react";
+import { useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { GiHamburgerMenu } from "react-icons/gi";
@@ -9,6 +9,7 @@ import { NAVBAR_MENU } from "@/constants/NavbarMenu";
 export default function Navbar() {
   const pathName = usePathname();
   const [navbar, setNavbar] = useState(false);
+
   return (
     <div className="flex justify-between p-5 items-center border-b-2 border-gray-300/50">
       <Link href="/">

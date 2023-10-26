@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function ErrorScreen() {
   return (
     <div className="w-full h-[75vh] flex flex-col justify-center items-center">
