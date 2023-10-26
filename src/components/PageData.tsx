@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 "use client";
 import { useState } from "react";
-import { PageDataType } from "../types/type";
+import { FetchWebToonCardType, PageDataType } from "../types/type";
 import { useQuery } from "@tanstack/react-query";
 import LoadingScreen from "./LoadingScreen";
 import ErrorScreen from "./ErrorScreen";
@@ -29,6 +29,8 @@ export default function PageData({ page, name }: PageDataType) {
     }
   );
 
+  console.log(data.webtoons);
+
   return (
     <>
       <div className="mb-3 border-b-2 border-gray-300/50">
@@ -50,7 +52,7 @@ export default function PageData({ page, name }: PageDataType) {
       {isError && <ErrorScreen />}
       <div className="grid 2xl:grid-cols-5 xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-5">
         {data &&
-          data.webtoons.map((card: any, key: any) => (
+          data.webtoons.map((card: FetchWebToonCardType, key: number) => (
             <div
               className="shadow-lg rounded-lg h-[450px] lg:h-[350px]"
               key={key}

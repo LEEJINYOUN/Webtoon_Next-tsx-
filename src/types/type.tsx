@@ -1,4 +1,4 @@
-export type GetDataType = {
+export type FetchDataType = {
   author: string;
   title: string;
   url: string;
@@ -6,7 +6,7 @@ export type GetDataType = {
 };
 
 export type BannerDataType = {
-  data: GetDataType[];
+  data: FetchDataType[];
   name: string;
   linkHref: string;
 };
@@ -19,4 +19,10 @@ export type GoToPageType = {
 export type PageDataType = {
   page: string;
   name: string;
+};
+
+export type FetchWebToonCardType = {
+  img: string;
+  url: string;
+  title: string;
 };
