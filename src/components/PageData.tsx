@@ -29,8 +29,6 @@ export default function PageData({ page, name }: PageDataType) {
     }
   );
 
-  console.log(data.webtoons);
-
   return (
     <>
       <div className="mb-3 border-b-2 border-gray-300/50">
